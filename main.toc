@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Parts and Purpose}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Offensive Purpose}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Defensive Purpose}{4}{}%
+\contentsline {section}{\numberline {3}Materials}{5}{}%
+\contentsline {section}{\numberline {4}Pose and Positioning}{6}{}%
+\contentsline {section}{\numberline {5}Games interpretations}{7}{}%
