@@ -4,4 +4,5 @@
 \contentsline {subsection}{\numberline {2.2}Defensive Purpose}{4}{}%
 \contentsline {section}{\numberline {3}Materials}{5}{}%
 \contentsline {section}{\numberline {4}Pose and Positioning}{6}{}%
-\contentsline {section}{\numberline {5}Games interpretations}{7}{}%
+\contentsline {section}{\numberline {5}Weapon Symbolism}{7}{}%
+\contentsline {subsection}{\numberline {5.1}Sword Symbolism}{7}{}%
