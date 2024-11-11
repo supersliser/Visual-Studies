@@ -3083,6 +3083,12 @@
     <bcf:citekey order="11" intorder="1">walker2002rapierNoCut</bcf:citekey>
     <bcf:citekey order="12" intorder="1">walker2002rapier25</bcf:citekey>
     <bcf:citekey order="13" intorder="1">correa2013history</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">coffey1893notes</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">hayes1943irish</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">lazenby2016phalanx</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">bosworth2010argeads</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">fallows2010jousting</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">smith2017lance</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
