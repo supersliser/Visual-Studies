@@ -12,6 +12,7 @@
 *.toc filter=lfs diff=lfs merge=lfs -text
 *.bib filter=lfs diff=lfs merge=lfs -text
 *.bbl-SAVE-ERROR filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
 ./main.lat !text !filter !merge !diff
 ./main.tex !text !filter !merge !diff
 ./main.pdf !text !filter !merge !diff
