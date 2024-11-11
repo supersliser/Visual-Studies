@@ -1,0 +1,2 @@
+{"rule":"NUMEROUS_DIFFERENT","sentence":"^\\QAs discussed prior, the term sword is in fact a category to describe many different types of weapons \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, all of which follow the same general shape pattern of: handle → hand guard → single, continuous blade.\\E$"}
+{"rule":"ALLOW_TO","sentence":"^\\QBludgeoning - where the weapon uses force to push directly down on an area, delivering concussive damage Piercing - where the weapon uses force on a small point, piercing vulnerable points on the target \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
