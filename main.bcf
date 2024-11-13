@@ -3073,22 +3073,23 @@
     <bcf:citekey order="1" intorder="1">1</bcf:citekey>
     <bcf:citekey order="2" intorder="1">2</bcf:citekey>
     <bcf:citekey order="3" intorder="1">bozkir2024just</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">furat1998brief</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">mcnab2010swords</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">caesar</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">macbeth</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">fox1894book</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">newyorkflag</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">walker2002rapier12</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">walker2002rapierNoCut</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">walker2002rapier25</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">correa2013history</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">coffey1893notes</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">hayes1943irish</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">lazenby2016phalanx</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">bosworth2010argeads</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">fallows2010jousting</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">smith2017lance</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">bunn2017archimedes</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">furat1998brief</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">mcnab2010swords</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">caesar</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">macbeth</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">fox1894book</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">newyorkflag</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">walker2002rapier12</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">walker2002rapierNoCut</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">walker2002rapier25</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">correa2013history</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">coffey1893notes</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">hayes1943irish</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">lazenby2016phalanx</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">bosworth2010argeads</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">fallows2010jousting</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">smith2017lance</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

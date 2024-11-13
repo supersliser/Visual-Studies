@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1731365313.10501 "main.bcf" "main.bbl" "main" 1731365366.63554 0
-  "main.bcf" 1731365366.55785 134590 0eace045afa1b99986ffece8e5c55c8c "pdflatex"
-  "ref.bib" 1731365304.06757 4117 2b44f4b3a4e7af044cd6219902314860 ""
+["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
+  "main.bcf" 1731535088.99237 134664 bfba13ea0bfcf60ae4ba69829aac9491 "pdflatex"
+  "ref.bib" 1731535080.20135 4473 40c5a832e0bcd784011ae627deb8eb1c ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1731365365.36645 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1731365366.63592 0
-  "/home/supersliser/Documents/Visual Studies/main.tex" 1731365363.92683 16454 18c40af6c0342a866e3f945d6bb79741 ""
+["pdflatex"] 1731535087.80944 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1731535089.0935 2
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1731535080.20035 21715 233f9a1573c7df46f7d1115c8f822cdd ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -26,9 +26,12 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1215737283 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -74,11 +77,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1731011698 5475505 9858817de6e728d163c121232b884c29 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731011792 3343016 214547ac568cabb2e526af488ceb63f5 ""
   "/usr/local/texlive/2024/texmf.cnf" 1731011692.60761 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "main.aux" 1731365366.55485 6093 6d6bc2db8ad61b970401acb673161ed2 "pdflatex"
-  "main.bbl" 1731365314.50262 51314 15abcfa12b67b64dc8014a1ccd30a6ed "biber main"
-  "main.run.xml" 1731365366.55885 2420 037752900427d53470ab58bfebae51be "pdflatex"
-  "main.tex" 1731365363.92683 16454 18c40af6c0342a866e3f945d6bb79741 ""
-  "main.toc" 1731365366.55885 648 248db00821a9971fc825d424ef16c10c "pdflatex"
+  "main.aux" 1731535088.99037 6563 83bfe816c220dfae5ebef54728ee5109 "pdflatex"
+  "main.bbl" 1731535086.20436 51314 15abcfa12b67b64dc8014a1ccd30a6ed "biber main"
+  "main.tex" 1731535080.20035 21715 233f9a1573c7df46f7d1115c8f822cdd ""
+  "main.toc" 1731535088.99337 706 23bc9128a265295beba1e8ddbbfd4c58 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
