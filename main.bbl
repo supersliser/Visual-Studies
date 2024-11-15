@@ -84,6 +84,45 @@
       \field{pages}{pg. 14}
       \range{pages}{-1}
     \endentry
+    \entry{bunn2017archimedes}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
+           family={Bunn},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
+           family={Bunn},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{fullhash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{fullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{bibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorbibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authornamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorfullhash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorfullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Balancing the Common Core Curriculum in Middle School Education: Composing Archimedes' Lever, the Equation, and the Sentence as an Interdisciplinary Unity}
+      \field{title}{Archimedes’ lever}
+      \field{year}{2017}
+      \field{pages}{35\bibrangedash 81}
+      \range{pages}{47}
+    \endentry
     \entry{coffey1893notes}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0d04219792481169bc90d1d0fc76d0a}{%
@@ -686,6 +725,45 @@
       \field{year}{2024}
       \field{pages}{pg. 14}
       \range{pages}{-1}
+    \endentry
+    \entry{bunn2017archimedes}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
+           family={Bunn},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
+           family={Bunn},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{fullhash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{fullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{bibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorbibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authornamehash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorfullhash}{5d5bb8173c34824ac6c8b06a3569d703}
+      \strng{authorfullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Balancing the Common Core Curriculum in Middle School Education: Composing Archimedes' Lever, the Equation, and the Sentence as an Interdisciplinary Unity}
+      \field{title}{Archimedes’ lever}
+      \field{year}{2017}
+      \field{pages}{35\bibrangedash 81}
+      \range{pages}{47}
     \endentry
     \entry{coffey1893notes}{article}{}{}
       \name{author}{1}{}{%
