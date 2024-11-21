@@ -1,3 +1,7 @@
 greatsword
 Greatsword
 handguard
+Tamreil
+shortsword
+stormcloak
+stormcloaks

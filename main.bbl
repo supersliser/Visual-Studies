@@ -19,26 +19,20 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
-    \entry{bosworth2010argeads}{article}{}{}
+    \entry{skyrim}{game}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7168100845162322058ce2426a8af469}{%
-           family={Bosworth},
-           familyi={B\bibinitperiod},
-           given={Albert\bibnamedelima Brian},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b6cd11c67029f10fb545ad863328f5d}{%
+           family={Bethesda},
+           familyi={B\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{7168100845162322058ce2426a8af469}
-      \strng{fullhash}{7168100845162322058ce2426a8af469}
-      \strng{fullhashraw}{7168100845162322058ce2426a8af469}
-      \strng{bibnamehash}{7168100845162322058ce2426a8af469}
-      \strng{authorbibnamehash}{7168100845162322058ce2426a8af469}
-      \strng{authornamehash}{7168100845162322058ce2426a8af469}
-      \strng{authorfullhash}{7168100845162322058ce2426a8af469}
-      \strng{authorfullhashraw}{7168100845162322058ce2426a8af469}
+      \strng{namehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{fullhash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{fullhashraw}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{bibnamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorbibnamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authornamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorfullhash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorfullhashraw}{3b6cd11c67029f10fb545ad863328f5d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -46,43 +40,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Philip II and Alexander the Great: father and son, lives and afterlives}
-      \field{title}{The Argeads and the phalanx}
-      \field{year}{2010}
-      \field{pages}{91\bibrangedash 102}
-      \range{pages}{12}
-    \endentry
-    \entry{bozkir2024just}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=44f7e2a370190fc19c9f1d9354a71f35}{%
-           family={Bozkir},
-           familyi={B\bibinitperiod},
-           given={Ogulhan},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Univerzita Karlova, Matematicko-fyzikální fakulta}%
-      }
-      \strng{namehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{fullhash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{fullhashraw}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{bibnamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorbibnamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authornamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorfullhash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorfullhashraw}{44f7e2a370190fc19c9f1d9354a71f35}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Just Blade: A 3D melee combat game in a medieval setting}
-      \field{year}{2024}
-      \field{pages}{pg. 14}
-      \range{pages}{-1}
+      \field{title}{The Elder Scrolls V: Skyrim}
+      \field{year}{2011}
     \endentry
     \entry{bunn2017archimedes}{article}{}{}
       \name{author}{2}{}{%
@@ -123,40 +82,6 @@
       \field{pages}{35\bibrangedash 81}
       \range{pages}{47}
     \endentry
-    \entry{coffey1893notes}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c0d04219792481169bc90d1d0fc76d0a}{%
-           family={Coffey},
-           familyi={C\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{fullhash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{fullhashraw}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{bibnamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorbibnamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authornamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorfullhash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorfullhashraw}{c0d04219792481169bc90d1d0fc76d0a}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the Royal Irish Academy (1889-1901)}
-      \field{title}{Notes on the Classification of Spear-heads of the Bronze Age Found in Ireland}
-      \field{volume}{3}
-      \field{year}{1893}
-      \field{pages}{486\bibrangedash 510}
-      \range{pages}{25}
-    \endentry
     \entry{correa2013history}{thesis}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -189,37 +114,6 @@
       \field{title}{The History of The Rapier}
       \field{type}{phdthesis}
       \field{year}{2013}
-    \endentry
-    \entry{fallows2010jousting}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=18cd262259890ef244ead537c8c18f36}{%
-           family={Fallows},
-           familyi={F\bibinitperiod},
-           given={Noel},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Boydell Press}%
-      }
-      \strng{namehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{fullhash}{18cd262259890ef244ead537c8c18f36}
-      \strng{fullhashraw}{18cd262259890ef244ead537c8c18f36}
-      \strng{bibnamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorbibnamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authornamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorfullhash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorfullhashraw}{18cd262259890ef244ead537c8c18f36}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Jousting in Medieval and Renaissance Iberia}
-      \field{volume}{3}
-      \field{year}{2010}
     \endentry
     \entry{fox1894book}{book}{}{}
       \name{author}{2}{}{%
@@ -289,68 +183,32 @@
       \field{title}{A Brief Study on Swords}
       \field{year}{1998}
     \endentry
-    \entry{hayes1943irish}{article}{}{}
+    \entry{lotr}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a4bf2b3d83395428e7f517860c526294}{%
-           family={Hayes-McCoy},
-           familyi={H\bibinithyphendelim M\bibinitperiod},
-           given={GA},
-           giveni={G\bibinitperiod},
+        {{un=0,uniquepart=base,hash=d7d519964b032fd2589008bee1f28c64}{%
+           family={J.\bibnamedelimi R.\bibnamedelimi R.\bibnamedelimi Tolkien},
+           familyi={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Peter\bibnamedelima Jackson},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{fullhash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{fullhashraw}{a4bf2b3d83395428e7f517860c526294}
-      \strng{bibnamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorbibnamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authornamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorfullhash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorfullhashraw}{a4bf2b3d83395428e7f517860c526294}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{fullhash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{fullhashraw}{d7d519964b032fd2589008bee1f28c64}
+      \strng{bibnamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorbibnamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authornamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorfullhash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorfullhashraw}{d7d519964b032fd2589008bee1f28c64}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Galway Archaeological and Historical Society}
-      \field{number}{3/4}
-      \field{title}{The Irish pike}
-      \field{volume}{20}
-      \field{year}{1943}
-      \field{pages}{99\bibrangedash 128}
-      \range{pages}{30}
-    \endentry
-    \entry{lazenby2016phalanx}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b077aa8815eaac209fc0b4465734c664}{%
-           family={Lazenby},
-           familyi={L\bibinitperiod},
-           given={John\bibnamedelima F},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{fullhash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{fullhashraw}{b077aa8815eaac209fc0b4465734c664}
-      \strng{bibnamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorbibnamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authornamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorfullhash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorfullhashraw}{b077aa8815eaac209fc0b4465734c664}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Oxford Research Encyclopedia of Classics}
-      \field{title}{phalanx}
-      \field{year}{2016}
+      \field{title}{The Lord of the Rings}
+      \field{year}{2001}
     \endentry
     \entry{mcnab2010swords}{book}{}{}
       \name{author}{1}{}{%
@@ -471,47 +329,6 @@
       \field{title}{Macbeth}
       \field{year}{1606}
     \endentry
-    \entry{smith2017lance}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=38856359f1ae387ecba0656c4dd3fb85}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Kay},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0eaaf80fa8db059cde4e38df32c4bce3}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Ruth\bibnamedelima R},
-           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{fullhash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{fullhashraw}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{bibnamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorbibnamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authornamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorfullhash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorfullhashraw}{f22b97f2630907e5b15e96cdbeda605e}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Medieval Warfare}
-      \field{number}{3}
-      \field{title}{The lance}
-      \field{volume}{7}
-      \field{year}{2017}
-      \field{pages}{46\bibrangedash 48}
-      \range{pages}{3}
-    \endentry
     \entry{newyorkflag}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=642fcc612570ee36afebc96865d27ff2}{%
@@ -565,6 +382,30 @@
       \verb{url}
       \verb https://www.the-numbers.com/market/genres
       \endverb
+    \endentry
+    \entry{forhonor}{game}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0b3029a74ef7a70c66f95b3f36f3ed7f}{%
+           family={Ubisoft},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{fullhash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{fullhashraw}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{bibnamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorbibnamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authornamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorfullhash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorfullhashraw}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{For Honor}
+      \field{year}{2016}
     \endentry
     \entry{walker2002rapier12}{article}{}{}
       \name{author}{1}{}{%
@@ -661,26 +502,20 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{bosworth2010argeads}{article}{}{}
+    \entry{skyrim}{game}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7168100845162322058ce2426a8af469}{%
-           family={Bosworth},
-           familyi={B\bibinitperiod},
-           given={Albert\bibnamedelima Brian},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b6cd11c67029f10fb545ad863328f5d}{%
+           family={Bethesda},
+           familyi={B\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{7168100845162322058ce2426a8af469}
-      \strng{fullhash}{7168100845162322058ce2426a8af469}
-      \strng{fullhashraw}{7168100845162322058ce2426a8af469}
-      \strng{bibnamehash}{7168100845162322058ce2426a8af469}
-      \strng{authorbibnamehash}{7168100845162322058ce2426a8af469}
-      \strng{authornamehash}{7168100845162322058ce2426a8af469}
-      \strng{authorfullhash}{7168100845162322058ce2426a8af469}
-      \strng{authorfullhashraw}{7168100845162322058ce2426a8af469}
+      \strng{namehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{fullhash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{fullhashraw}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{bibnamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorbibnamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authornamehash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorfullhash}{3b6cd11c67029f10fb545ad863328f5d}
+      \strng{authorfullhashraw}{3b6cd11c67029f10fb545ad863328f5d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -688,43 +523,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Philip II and Alexander the Great: father and son, lives and afterlives}
-      \field{title}{The Argeads and the phalanx}
-      \field{year}{2010}
-      \field{pages}{91\bibrangedash 102}
-      \range{pages}{12}
-    \endentry
-    \entry{bozkir2024just}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=44f7e2a370190fc19c9f1d9354a71f35}{%
-           family={Bozkir},
-           familyi={B\bibinitperiod},
-           given={Ogulhan},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Univerzita Karlova, Matematicko-fyzikální fakulta}%
-      }
-      \strng{namehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{fullhash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{fullhashraw}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{bibnamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorbibnamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authornamehash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorfullhash}{44f7e2a370190fc19c9f1d9354a71f35}
-      \strng{authorfullhashraw}{44f7e2a370190fc19c9f1d9354a71f35}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Just Blade: A 3D melee combat game in a medieval setting}
-      \field{year}{2024}
-      \field{pages}{pg. 14}
-      \range{pages}{-1}
+      \field{title}{The Elder Scrolls V: Skyrim}
+      \field{year}{2011}
     \endentry
     \entry{bunn2017archimedes}{article}{}{}
       \name{author}{2}{}{%
@@ -765,40 +565,6 @@
       \field{pages}{35\bibrangedash 81}
       \range{pages}{47}
     \endentry
-    \entry{coffey1893notes}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c0d04219792481169bc90d1d0fc76d0a}{%
-           family={Coffey},
-           familyi={C\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{fullhash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{fullhashraw}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{bibnamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorbibnamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authornamehash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorfullhash}{c0d04219792481169bc90d1d0fc76d0a}
-      \strng{authorfullhashraw}{c0d04219792481169bc90d1d0fc76d0a}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the Royal Irish Academy (1889-1901)}
-      \field{title}{Notes on the Classification of Spear-heads of the Bronze Age Found in Ireland}
-      \field{volume}{3}
-      \field{year}{1893}
-      \field{pages}{486\bibrangedash 510}
-      \range{pages}{25}
-    \endentry
     \entry{correa2013history}{thesis}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -831,37 +597,6 @@
       \field{title}{The History of The Rapier}
       \field{type}{phdthesis}
       \field{year}{2013}
-    \endentry
-    \entry{fallows2010jousting}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=18cd262259890ef244ead537c8c18f36}{%
-           family={Fallows},
-           familyi={F\bibinitperiod},
-           given={Noel},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Boydell Press}%
-      }
-      \strng{namehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{fullhash}{18cd262259890ef244ead537c8c18f36}
-      \strng{fullhashraw}{18cd262259890ef244ead537c8c18f36}
-      \strng{bibnamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorbibnamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authornamehash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorfullhash}{18cd262259890ef244ead537c8c18f36}
-      \strng{authorfullhashraw}{18cd262259890ef244ead537c8c18f36}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Jousting in Medieval and Renaissance Iberia}
-      \field{volume}{3}
-      \field{year}{2010}
     \endentry
     \entry{fox1894book}{book}{}{}
       \name{author}{2}{}{%
@@ -931,68 +666,32 @@
       \field{title}{A Brief Study on Swords}
       \field{year}{1998}
     \endentry
-    \entry{hayes1943irish}{article}{}{}
+    \entry{lotr}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a4bf2b3d83395428e7f517860c526294}{%
-           family={Hayes-McCoy},
-           familyi={H\bibinithyphendelim M\bibinitperiod},
-           given={GA},
-           giveni={G\bibinitperiod},
+        {{un=0,uniquepart=base,hash=d7d519964b032fd2589008bee1f28c64}{%
+           family={J.\bibnamedelimi R.\bibnamedelimi R.\bibnamedelimi Tolkien},
+           familyi={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Peter\bibnamedelima Jackson},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{fullhash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{fullhashraw}{a4bf2b3d83395428e7f517860c526294}
-      \strng{bibnamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorbibnamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authornamehash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorfullhash}{a4bf2b3d83395428e7f517860c526294}
-      \strng{authorfullhashraw}{a4bf2b3d83395428e7f517860c526294}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{fullhash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{fullhashraw}{d7d519964b032fd2589008bee1f28c64}
+      \strng{bibnamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorbibnamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authornamehash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorfullhash}{d7d519964b032fd2589008bee1f28c64}
+      \strng{authorfullhashraw}{d7d519964b032fd2589008bee1f28c64}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Galway Archaeological and Historical Society}
-      \field{number}{3/4}
-      \field{title}{The Irish pike}
-      \field{volume}{20}
-      \field{year}{1943}
-      \field{pages}{99\bibrangedash 128}
-      \range{pages}{30}
-    \endentry
-    \entry{lazenby2016phalanx}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b077aa8815eaac209fc0b4465734c664}{%
-           family={Lazenby},
-           familyi={L\bibinitperiod},
-           given={John\bibnamedelima F},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{fullhash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{fullhashraw}{b077aa8815eaac209fc0b4465734c664}
-      \strng{bibnamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorbibnamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authornamehash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorfullhash}{b077aa8815eaac209fc0b4465734c664}
-      \strng{authorfullhashraw}{b077aa8815eaac209fc0b4465734c664}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Oxford Research Encyclopedia of Classics}
-      \field{title}{phalanx}
-      \field{year}{2016}
+      \field{title}{The Lord of the Rings}
+      \field{year}{2001}
     \endentry
     \entry{mcnab2010swords}{book}{}{}
       \name{author}{1}{}{%
@@ -1113,47 +812,6 @@
       \field{title}{Macbeth}
       \field{year}{1606}
     \endentry
-    \entry{smith2017lance}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=38856359f1ae387ecba0656c4dd3fb85}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Kay},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0eaaf80fa8db059cde4e38df32c4bce3}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Ruth\bibnamedelima R},
-           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{fullhash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{fullhashraw}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{bibnamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorbibnamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authornamehash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorfullhash}{f22b97f2630907e5b15e96cdbeda605e}
-      \strng{authorfullhashraw}{f22b97f2630907e5b15e96cdbeda605e}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Medieval Warfare}
-      \field{number}{3}
-      \field{title}{The lance}
-      \field{volume}{7}
-      \field{year}{2017}
-      \field{pages}{46\bibrangedash 48}
-      \range{pages}{3}
-    \endentry
     \entry{newyorkflag}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=642fcc612570ee36afebc96865d27ff2}{%
@@ -1207,6 +865,30 @@
       \verb{url}
       \verb https://www.the-numbers.com/market/genres
       \endverb
+    \endentry
+    \entry{forhonor}{game}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0b3029a74ef7a70c66f95b3f36f3ed7f}{%
+           family={Ubisoft},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{fullhash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{fullhashraw}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{bibnamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorbibnamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authornamehash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorfullhash}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \strng{authorfullhashraw}{0b3029a74ef7a70c66f95b3f36f3ed7f}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{For Honor}
+      \field{year}{2016}
     \endentry
     \entry{walker2002rapier12}{article}{}{}
       \name{author}{1}{}{%

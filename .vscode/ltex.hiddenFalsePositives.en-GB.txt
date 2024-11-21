@@ -1,3 +1,5 @@
 {"rule":"NUMEROUS_DIFFERENT","sentence":"^\\QAs discussed prior, the term sword is in fact a category to describe many different types of weapons \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, all of which follow the same general shape pattern of: handle → hand guard → single, continuous blade.\\E$"}
 {"rule":"ALLOW_TO","sentence":"^\\QBludgeoning - where the weapon uses force to push directly down on an area, delivering concussive damage Piercing - where the weapon uses force on a small point, piercing vulnerable points on the target \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
 {"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnother consideration of the number of sharpened edges is the famous crossed blades conflict\\E$"}
+{"rule":"BECAUSE_OF_THE_FACT_THAT","sentence":"^\\QWithin historical times (I will largely be referring to the Medieval era), swords were pretty much exclusively wielded by kings and rulers because of the fact that they were exclusively tools for fighting and served no secondary purpose.\\E$"}
+{"rule":"NUMEROUS_DIFFERENT","sentence":"^\\QBeing the generic conventions of the fantasy genre, these feature many different types of swords and blades.\\E$"}
