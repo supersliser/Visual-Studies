@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b16bcaf5f3bd6dbc13ed10aedcd5f13caa30967013e45aabd84368af3226b07c
-size 797
+# Fdb version 4
+["pdflatex"] 1732400676.57215 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1732400676.78808 2
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1732400580.49333 130 56e576bfb116de1afb7e9c057ff2a0d8 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731011792 3343016 214547ac568cabb2e526af488ceb63f5 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1731011692.60761 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "main.aux" 1732400676.57019 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1732400580.49333 130 56e576bfb116de1afb7e9c057ff2a0d8 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
