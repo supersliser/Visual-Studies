@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Swords in the media}{4}{}%
+\contentsline {section}{\numberline {3}Parts and Purpose}{5}{}%
+\contentsline {section}{\numberline {4}Sword Symbolism}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Short sword}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Dagger}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Longsword}{8}{}%
+\contentsline {subsection}{\numberline {4.4}Rapier}{8}{}%
+\contentsline {subsection}{\numberline {4.5}Greatsword}{9}{}%

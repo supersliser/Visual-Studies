@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9327f83023e5be2635f10b9d847f435f3128bacc2d120deda26378d3b41cc4f8
-size 74
+greatsword
+Greatsword
+handguard
+Tamreil
+shortsword
+stormcloak
+stormcloaks
