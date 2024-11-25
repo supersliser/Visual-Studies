@@ -3,3 +3,7 @@
 {"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QAnother consideration of the number of sharpened edges is the famous crossed blades conflict\\E$"}
 {"rule":"BECAUSE_OF_THE_FACT_THAT","sentence":"^\\QWithin historical times (I will largely be referring to the Medieval era), swords were pretty much exclusively wielded by kings and rulers because of the fact that they were exclusively tools for fighting and served no secondary purpose.\\E$"}
 {"rule":"NUMEROUS_DIFFERENT","sentence":"^\\QBeing the generic conventions of the fantasy genre, these feature many different types of swords and blades.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QFor Honor.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QFor Honor is a multiplayer fighting game known for its mechanics around stances, allowing any character to hold their weapon in one of three possible stances.\\E$"}
+{"rule":"A_UNCOUNTABLE","sentence":"^\\QThe only characteristic these blades could be said to have is a slight damage to the blade, suggesting age or lack of care.\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QNonetheless, these symbolisms would require further factors outside of the weapon itself and its direct use in order to be imagined, thus the blade is unable to present a narrative or function as a narrative device.\\E$"}
