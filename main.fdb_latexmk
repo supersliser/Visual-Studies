@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1732571042.3343 "main.bcf" "main.bbl" "main" 1732571050.3229 0
-  "main.bcf" 1732571049.93265 134818 3025293dc807933bd90dd2b298020ede "pdflatex"
+["biber main"] 1732571042.3343 "main.bcf" "main.bbl" "main" 1732754564.17259 0
+  "main.bcf" 1732754563.78047 134818 3025293dc807933bd90dd2b298020ede "pdflatex"
   "ref.bib" 1732570519.55971 5815 097e52e6ce586de22d52ee70bf7b8896 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1732571047.18434 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1732571050.32329 0
-  "/home/supersliser/Documents/Visual Studies/main.tex" 1732571031.34757 28372 881980d56e3527293592ab0d1c81bf8f ""
+["pdflatex"] 1732754561.13736 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1732754564.17316 0
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1732754557.46844 29474 f5a5a66dd2e211f90a903b568d27e0c9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -105,16 +105,14 @@
   "images/SpearSide.jpg" 1732407220.83981 4907284 6853fd0bcb0893bd613e9e5a951dd773 ""
   "images/Sting.png" 1732407480.87041 153994 d24947d073ad2af1e87fd85959da5224 ""
   "images/SwordToKillChild2.jpg" 1732407803.87842 8451702 2b89ef6dcd0bbc7ca024a9713965628c ""
-  "main.aux" 1732571049.92965 12598 9000145b386fea4b33c0b627149e7c79 "pdflatex"
+  "main.aux" 1732754563.77647 12480 59ad944e7ef0674f54efff45d954c406 "pdflatex"
   "main.bbl" 1732571043.90362 55394 fd2f76fbc4cc5bc08c44fafbe4d17c51 "biber main"
-  "main.lof" 1732571049.93565 1375 72a3a74f2f36ee9206060e38eba8eff2 "pdflatex"
-  "main.run.xml" 1732571049.93565 2420 037752900427d53470ab58bfebae51be "pdflatex"
-  "main.tex" 1732571031.34757 28372 881980d56e3527293592ab0d1c81bf8f ""
-  "main.toc" 1732571049.93565 1109 db75a3a4910041ad6f619a66943b2109 "pdflatex"
+  "main.run.xml" 1732754563.78247 2420 037752900427d53470ab58bfebae51be "pdflatex"
+  "main.tex" 1732754557.46844 29474 f5a5a66dd2e211f90a903b568d27e0c9 ""
+  "main.toc" 1732754563.78247 1109 a76da6a6ea177a6b9f102477b48b838b "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
-  "main.lof"
   "main.log"
   "main.pdf"
   "main.run.xml"

@@ -244,10 +244,6 @@ INPUT ./images/Iteration3.2.jpg
 INPUT ./images/Iteration3.2.jpg
 INPUT ./images/Iteration3.2.jpg
 INPUT ./images/Iteration3.2.jpg
-INPUT ./main.lof
-INPUT ./main.lof
-INPUT main.lof
-OUTPUT main.lof
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml

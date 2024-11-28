@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {4.4}Rapier}{12}{}%
 \contentsline {subsection}{\numberline {4.5}Greatsword}{13}{}%
 \contentsline {subsection}{\numberline {4.6}Sabre}{13}{}%
-\contentsline {section}{\numberline {5}Iterations of Sword Symbolism photography}{14}{}%
-\contentsline {subsection}{\numberline {5.1}Iteration 1}{14}{}%
+\contentsline {section}{\numberline {5}Iterations of Sword Symbolism photography}{15}{}%
+\contentsline {subsection}{\numberline {5.1}Iteration 1}{15}{}%
 \contentsline {subsection}{\numberline {5.2}Iteration 2}{16}{}%
 \contentsline {subsection}{\numberline {5.3}Iteration 3}{18}{}%
