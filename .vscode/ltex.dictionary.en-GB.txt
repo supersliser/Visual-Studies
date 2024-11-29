@@ -9,3 +9,12 @@ minifigure
 crossguard
 crossguards
 handguards
+Norrington
+Ghostrunner
+Aragorn
+Ahsoka
+Tano
+lighsaber
+shinto-blade
+Baylan
+Skoll
