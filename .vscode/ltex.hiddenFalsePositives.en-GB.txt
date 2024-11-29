@@ -7,3 +7,7 @@
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QFor Honor is a multiplayer fighting game known for its mechanics around stances, allowing any character to hold their weapon in one of three possible stances.\\E$"}
 {"rule":"A_UNCOUNTABLE","sentence":"^\\QThe only characteristic these blades could be said to have is a slight damage to the blade, suggesting age or lack of care.\\E$"}
 {"rule":"OUTSIDE_OF","sentence":"^\\QNonetheless, these symbolisms would require further factors outside of the weapon itself and its direct use in order to be imagined, thus the blade is unable to present a narrative or function as a narrative device.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QFigure \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q is from a larger than life statue (around 9 feet tall) while the 2nd is a minifigure in a nativity-esque crucifixion scene.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QA collection of artisticly designed crossbars and handguards The circular crossbar of a rapier with patterns engraved into the metal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThere is a running joke within the series that concerns a particular sword: A rapier produced by the character William Turner for the Commodore James Norrington.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThe \"nice sword\" crafted by William Turner for Commodore James Norrington\\E$"}

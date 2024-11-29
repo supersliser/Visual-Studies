@@ -5,3 +5,7 @@ Tamreil
 shortsword
 stormcloak
 stormcloaks
+minifigure
+crossguard
+crossguards
+handguards

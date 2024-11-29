@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1732571042.3343 "main.bcf" "main.bbl" "main" 1732754564.17259 0
-  "main.bcf" 1732754563.78047 134818 3025293dc807933bd90dd2b298020ede "pdflatex"
-  "ref.bib" 1732570519.55971 5815 097e52e6ce586de22d52ee70bf7b8896 ""
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1732844160.25973 -1
+  "main.bcf" 1732844159.70272 135176 5a8b77bf680be5aa56e2823aa67b041d "pdflatex"
+  "ref.bib" 1732843645.95275 6357 3413ae24b78de62739bcd7b741583a99 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1732754561.13736 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1732754564.17316 0
-  "/home/supersliser/Documents/Visual Studies/main.tex" 1732754557.46844 29474 f5a5a66dd2e211f90a903b568d27e0c9 ""
+["pdflatex"] 1732844156.17713 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1732844160.26011 0
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1732844151.24068 38233 a9276063eb1df98b5582218e97f077a0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -91,8 +91,11 @@
   "images/Iteration2.2.jpg" 1732569113.124 8131668 9a58ceab5e34deaea191a9f9bbf50000 ""
   "images/Iteration3.1.jpg" 1732569113.155 7128541 d972ef29e0beeb584d77a2007c24b972 ""
   "images/Iteration3.2.jpg" 1732569113.183 6949057 4d1475a84ebc7399c83f4d57672030ac ""
+  "images/Iteration4.1.jpg" 1732839171.72214 8605751 f58f1389dc9d5ca8bf8a4d8819dd5523 ""
+  "images/Iteration4.2.jpg" 1732839171.69114 10771769 cd52c201296d2b438e15d870f3102df3 ""
   "images/LargeBladeDagger.jpg" 1732357351 6740669 e0c78c5437b6adc64d4ab07585b74062 ""
   "images/NewVSOldTestament.jpg" 1732407220.32581 9818768 b7d68bfa12bd69cb78df67d14ef06325 ""
+  "images/Norringtonssword.png" 1732844070.56439 211360 9d2b53d0cf63071e270d65d9edf8817e ""
   "images/OrnateShortswordHandle.jpg" 1732407220.40881 6267470 0eea37234901294496973927d9db967c ""
   "images/PersiusWithDagger.jpg" 1732407220.43581 6144099 81c2c11b48b32690c04239ab9b4a5dd0 ""
   "images/Saber2.jpg" 1732407220.48081 5626464 f26c75802ed825d85204a0288c3ce515 ""
@@ -105,11 +108,21 @@
   "images/SpearSide.jpg" 1732407220.83981 4907284 6853fd0bcb0893bd613e9e5a951dd773 ""
   "images/Sting.png" 1732407480.87041 153994 d24947d073ad2af1e87fd85959da5224 ""
   "images/SwordToKillChild2.jpg" 1732407803.87842 8451702 2b89ef6dcd0bbc7ca024a9713965628c ""
-  "main.aux" 1732754563.77647 12480 59ad944e7ef0674f54efff45d954c406 "pdflatex"
-  "main.bbl" 1732571043.90362 55394 fd2f76fbc4cc5bc08c44fafbe4d17c51 "biber main"
-  "main.run.xml" 1732754563.78247 2420 037752900427d53470ab58bfebae51be "pdflatex"
-  "main.tex" 1732754557.46844 29474 f5a5a66dd2e211f90a903b568d27e0c9 ""
-  "main.toc" 1732754563.78247 1109 a76da6a6ea177a6b9f102477b48b838b "pdflatex"
+  "images/cross1.jpg" 1732841873.82899 6410290 4a2ffe38cc9124a4c85abb89cb29e398 ""
+  "images/cross2.1.jpg" 1732842663.64782 5884576 7b9fa9b01d50524ca0716dffe00c61a3 ""
+  "images/cross2.2.jpg" 1732842663.61482 8834637 8027f8a8ac5b22de70555268e8f86683 ""
+  "images/cross2.3.jpg" 1732842663.58482 6704661 677595e0811b6d203a8b0dd28ce931c2 ""
+  "images/cross2.4.jpg" 1732842663.55782 4020253 222764d5926a0cf7bfb39e298bda9b0a ""
+  "images/cross2.jpg" 1732841873.78799 6354806 b374d6edbbd4156545b74da36cf6fff9 ""
+  "images/cross3.jpg" 1732841873.77399 7995442 635b343961cc5fe8c7bb1d10ae07d45d ""
+  "images/cross4.jpg" 1732841873.74698 4350449 617299b43f7196f02a06aca5f19e2428 ""
+  "images/cross5.jpg" 1732841873.71998 6224467 71b28d6df64f11fdd8389a0dc800a18e ""
+  "images/cross6.jpg" 1732841873.69398 5973895 215e2c7304ceac5f28db9293979d3b63 ""
+  "main.aux" 1732844159.69972 16221 0b9fd97bdda4b66306b11b7717935cee "pdflatex"
+  "main.bbl" 1732844001.59214 64220 ea1efa883df26564713fcc8961f54a46 "biber main"
+  "main.run.xml" 1732844159.70372 2420 037752900427d53470ab58bfebae51be "pdflatex"
+  "main.tex" 1732844151.24068 38233 a9276063eb1df98b5582218e97f077a0 ""
+  "main.toc" 1732844159.70372 1373 811d25f644dd0ae839772ac7d49e23e4 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

@@ -3,15 +3,19 @@
 \contentsline {subsection}{\numberline {2.1}For Honor}{4}{}%
 \contentsline {subsection}{\numberline {2.2}The Elder Scrolls V: Skyrim}{4}{}%
 \contentsline {subsection}{\numberline {2.3}The Lord of the Rings}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Pirates of the Caribbean}{5}{}%
 \contentsline {section}{\numberline {3}Parts and Purpose}{6}{}%
-\contentsline {section}{\numberline {4}Sword Symbolism}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Short sword}{9}{}%
-\contentsline {subsection}{\numberline {4.2}Dagger}{11}{}%
-\contentsline {subsection}{\numberline {4.3}Longsword}{11}{}%
-\contentsline {subsection}{\numberline {4.4}Rapier}{12}{}%
-\contentsline {subsection}{\numberline {4.5}Greatsword}{13}{}%
-\contentsline {subsection}{\numberline {4.6}Sabre}{13}{}%
-\contentsline {section}{\numberline {5}Iterations of Sword Symbolism photography}{15}{}%
-\contentsline {subsection}{\numberline {5.1}Iteration 1}{15}{}%
-\contentsline {subsection}{\numberline {5.2}Iteration 2}{16}{}%
-\contentsline {subsection}{\numberline {5.3}Iteration 3}{18}{}%
+\contentsline {subsection}{\numberline {3.1}The Blade}{6}{}%
+\contentsline {subsection}{\numberline {3.2}The Guard}{8}{}%
+\contentsline {section}{\numberline {4}Sword Symbolism}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Short sword}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Dagger}{13}{}%
+\contentsline {subsection}{\numberline {4.3}Longsword}{13}{}%
+\contentsline {subsection}{\numberline {4.4}Rapier}{14}{}%
+\contentsline {subsection}{\numberline {4.5}Greatsword}{15}{}%
+\contentsline {subsection}{\numberline {4.6}Sabre}{15}{}%
+\contentsline {section}{\numberline {5}Iterations of Sword Symbolism photography}{17}{}%
+\contentsline {subsection}{\numberline {5.1}Iteration 1}{17}{}%
+\contentsline {subsection}{\numberline {5.2}Iteration 2}{18}{}%
+\contentsline {subsection}{\numberline {5.3}Iteration 3}{20}{}%
+\contentsline {subsection}{\numberline {5.4}Iteration 4}{21}{}%

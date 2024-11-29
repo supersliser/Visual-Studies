@@ -19,6 +19,52 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{barthes1972semiotics}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b230e91c108eeaca0348e9eba71249c}{%
+           family={Barthes},
+           familyi={B\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c583bed1d69887d1e892a8b5761fba4d}{%
+           family={Gottdiener},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c218609fae2ee117bf0186aa5b3cb26}{%
+           family={Boklund-Lagopoulou},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a13aab43c6bcb113938c6f03a2958409}{%
+           family={Lagopoulos},
+           familyi={L\bibinitperiod},
+           given={Alexandros\bibnamedelima Ph},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f10931cf78780fe9be1febc8455a91bd}
+      \strng{fullhash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{fullhashraw}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{bibnamehash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authorbibnamehash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authornamehash}{f10931cf78780fe9be1febc8455a91bd}
+      \strng{authorfullhash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authorfullhashraw}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{London: Paladin}
+      \field{title}{Semiotics}
+      \field{year}{1972}
+    \endentry
     \entry{skyrim}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3b6cd11c67029f10fb545ad863328f5d}{%
@@ -42,6 +88,33 @@
       \field{labeltitlesource}{title}
       \field{title}{The Elder Scrolls V: Skyrim}
       \field{year}{2011}
+    \endentry
+    \entry{potc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=970f08fa476c5a8808121118bdda4982}{%
+           family={Bruckheimer},
+           familyi={B\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{fullhash}{970f08fa476c5a8808121118bdda4982}
+      \strng{fullhashraw}{970f08fa476c5a8808121118bdda4982}
+      \strng{bibnamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorbibnamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authornamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorfullhash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorfullhashraw}{970f08fa476c5a8808121118bdda4982}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pirates of the Caribbean}
+      \field{year}{2003 - 2017}
     \endentry
     \entry{bunn2017archimedes}{article}{}{}
       \name{author}{2}{}{%
@@ -142,6 +215,36 @@
       \field{booktitle}{Oxford Research Encyclopedia of Religion}
       \field{title}{Violence in the Old Testament}
       \field{year}{2016}
+    \endentry
+    \entry{delaney1990chekhov}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e003f9def963248c068cbfd38cfc059c}{%
+           family={Delaney},
+           familyi={D\bibinitperiod},
+           given={Brian\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{fullhash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{fullhashraw}{e003f9def963248c068cbfd38cfc059c}
+      \strng{bibnamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorbibnamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authornamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorfullhash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorfullhashraw}{e003f9def963248c068cbfd38cfc059c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chekhov's Gun and Nietzsche's Hammer: The Biotechnological Revolution and the Sociology of Knowledge}
+      \field{year}{1990}
     \endentry
     \entry{imperialSword}{image}{}{}
       \name{author}{1}{}{%
@@ -653,6 +756,52 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{barthes1972semiotics}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b230e91c108eeaca0348e9eba71249c}{%
+           family={Barthes},
+           familyi={B\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c583bed1d69887d1e892a8b5761fba4d}{%
+           family={Gottdiener},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c218609fae2ee117bf0186aa5b3cb26}{%
+           family={Boklund-Lagopoulou},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a13aab43c6bcb113938c6f03a2958409}{%
+           family={Lagopoulos},
+           familyi={L\bibinitperiod},
+           given={Alexandros\bibnamedelima Ph},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f10931cf78780fe9be1febc8455a91bd}
+      \strng{fullhash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{fullhashraw}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{bibnamehash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authorbibnamehash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authornamehash}{f10931cf78780fe9be1febc8455a91bd}
+      \strng{authorfullhash}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \strng{authorfullhashraw}{2fc8dd4d144db3dbdb4a8998665e8be0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{London: Paladin}
+      \field{title}{Semiotics}
+      \field{year}{1972}
+    \endentry
     \entry{skyrim}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3b6cd11c67029f10fb545ad863328f5d}{%
@@ -676,6 +825,33 @@
       \field{labeltitlesource}{title}
       \field{title}{The Elder Scrolls V: Skyrim}
       \field{year}{2011}
+    \endentry
+    \entry{potc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=970f08fa476c5a8808121118bdda4982}{%
+           family={Bruckheimer},
+           familyi={B\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{fullhash}{970f08fa476c5a8808121118bdda4982}
+      \strng{fullhashraw}{970f08fa476c5a8808121118bdda4982}
+      \strng{bibnamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorbibnamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authornamehash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorfullhash}{970f08fa476c5a8808121118bdda4982}
+      \strng{authorfullhashraw}{970f08fa476c5a8808121118bdda4982}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pirates of the Caribbean}
+      \field{year}{2003 - 2017}
     \endentry
     \entry{bunn2017archimedes}{article}{}{}
       \name{author}{2}{}{%
@@ -776,6 +952,36 @@
       \field{booktitle}{Oxford Research Encyclopedia of Religion}
       \field{title}{Violence in the Old Testament}
       \field{year}{2016}
+    \endentry
+    \entry{delaney1990chekhov}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e003f9def963248c068cbfd38cfc059c}{%
+           family={Delaney},
+           familyi={D\bibinitperiod},
+           given={Brian\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{fullhash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{fullhashraw}{e003f9def963248c068cbfd38cfc059c}
+      \strng{bibnamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorbibnamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authornamehash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorfullhash}{e003f9def963248c068cbfd38cfc059c}
+      \strng{authorfullhashraw}{e003f9def963248c068cbfd38cfc059c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chekhov's Gun and Nietzsche's Hammer: The Biotechnological Revolution and the Sociology of Knowledge}
+      \field{year}{1990}
     \endentry
     \entry{imperialSword}{image}{}{}
       \name{author}{1}{}{%
