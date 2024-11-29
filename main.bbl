@@ -188,6 +188,33 @@
       \field{type}{phdthesis}
       \field{year}{2013}
     \endentry
+    \entry{himym}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ecf9185e966e35a10be1a9308d7c1e72}{%
+           family={Craig\bibnamedelima Thomas},
+           familyi={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Carter\bibnamedelima Bays},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{fullhash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{fullhashraw}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{bibnamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorbibnamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authornamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorfullhash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorfullhashraw}{ecf9185e966e35a10be1a9308d7c1e72}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How I Met Your Mother}
+      \field{year}{2005}
+    \endentry
     \entry{creach2016violence}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e3b652a863141f51b0dbf611c7c5ede}{%
@@ -344,6 +371,39 @@
       \field{pages}{18\bibrangedash 28}
       \range{pages}{11}
     \endentry
+    \entry{theduel}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4d40293823fefc9778afd9893c5e2e6}{%
+           family={Fryman},
+           familyi={F\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{fullhash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{fullhashraw}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{bibnamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorbibnamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authornamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorfullhash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorfullhashraw}{c4d40293823fefc9778afd9893c5e2e6}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Duel}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
+      \endverb
+      \verb{url}
+      \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
+      \endverb
+    \endentry
     \entry{furat1998brief}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b17bf9d178f10a488331cd9aceac5d19}{%
@@ -431,6 +491,33 @@
       \field{title}{War and Violence in the Old Testament}
       \field{year}{2012}
     \endentry
+    \entry{ahsoka}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b0472384b8ee305b50e9c12fed12f8f}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{fullhash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{fullhashraw}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{bibnamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorbibnamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authornamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorfullhash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorfullhashraw}{5b0472384b8ee305b50e9c12fed12f8f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Star Wars: Ahsoka}
+      \field{year}{2023}
+    \endentry
     \entry{mcnab2010swords}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d097053a71d54b14efdf8b67ee0e8e5}{%
@@ -462,6 +549,33 @@
       \field{year}{2010}
       \field{pages}{pg. 20}
       \range{pages}{-1}
+    \endentry
+    \entry{ghostrunner}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=345006d07de1be0587b01511e8f24fae}{%
+           family={{One More Level}},
+           familyi={O\bibinitperiod},
+           given={{Slipgate Ironworks}},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{fullhash}{345006d07de1be0587b01511e8f24fae}
+      \strng{fullhashraw}{345006d07de1be0587b01511e8f24fae}
+      \strng{bibnamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorbibnamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authornamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorfullhash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorfullhashraw}{345006d07de1be0587b01511e8f24fae}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ghostrunner}
+      \field{year}{2020}
     \endentry
     \entry{4}{online}{}{}
       \name{author}{1}{}{%
@@ -605,6 +719,39 @@
       \endverb
       \verb{url}
       \verb https://lotr.fandom.com/wiki/Sting?file=Glowingsting2.png
+      \endverb
+    \endentry
+    \entry{potcsword}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5205333f51310a61fbd5480fb0a5c50b}{%
+           family={Teague},
+           familyi={T\bibinitperiod},
+           given={Captain},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{fullhash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{fullhashraw}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{bibnamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorbibnamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authornamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorfullhash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorfullhashraw}{5205333f51310a61fbd5480fb0a5c50b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2010DisneyPiratesNorringtonsCeremonialSword}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://pirates.fandom.com/wiki/James_Norrington%27s_ceremonial_sword?file=2010DisneyPiratesNorringtonsCeremonialSword.jpg
+      \endverb
+      \verb{url}
+      \verb https://pirates.fandom.com/wiki/James_Norrington%27s_ceremonial_sword?file=2010DisneyPiratesNorringtonsCeremonialSword.jpg
       \endverb
     \endentry
     \entry{3}{online}{}{}
@@ -925,6 +1072,33 @@
       \field{type}{phdthesis}
       \field{year}{2013}
     \endentry
+    \entry{himym}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ecf9185e966e35a10be1a9308d7c1e72}{%
+           family={Craig\bibnamedelima Thomas},
+           familyi={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Carter\bibnamedelima Bays},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{fullhash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{fullhashraw}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{bibnamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorbibnamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authornamehash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorfullhash}{ecf9185e966e35a10be1a9308d7c1e72}
+      \strng{authorfullhashraw}{ecf9185e966e35a10be1a9308d7c1e72}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How I Met Your Mother}
+      \field{year}{2005}
+    \endentry
     \entry{creach2016violence}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1e3b652a863141f51b0dbf611c7c5ede}{%
@@ -1081,6 +1255,39 @@
       \field{pages}{18\bibrangedash 28}
       \range{pages}{11}
     \endentry
+    \entry{theduel}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4d40293823fefc9778afd9893c5e2e6}{%
+           family={Fryman},
+           familyi={F\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{fullhash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{fullhashraw}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{bibnamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorbibnamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authornamehash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorfullhash}{c4d40293823fefc9778afd9893c5e2e6}
+      \strng{authorfullhashraw}{c4d40293823fefc9778afd9893c5e2e6}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Duel}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
+      \endverb
+      \verb{url}
+      \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
+      \endverb
+    \endentry
     \entry{furat1998brief}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b17bf9d178f10a488331cd9aceac5d19}{%
@@ -1168,6 +1375,33 @@
       \field{title}{War and Violence in the Old Testament}
       \field{year}{2012}
     \endentry
+    \entry{ahsoka}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b0472384b8ee305b50e9c12fed12f8f}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{fullhash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{fullhashraw}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{bibnamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorbibnamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authornamehash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorfullhash}{5b0472384b8ee305b50e9c12fed12f8f}
+      \strng{authorfullhashraw}{5b0472384b8ee305b50e9c12fed12f8f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Star Wars: Ahsoka}
+      \field{year}{2023}
+    \endentry
     \entry{mcnab2010swords}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d097053a71d54b14efdf8b67ee0e8e5}{%
@@ -1199,6 +1433,33 @@
       \field{year}{2010}
       \field{pages}{pg. 20}
       \range{pages}{-1}
+    \endentry
+    \entry{ghostrunner}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=345006d07de1be0587b01511e8f24fae}{%
+           family={{One More Level}},
+           familyi={O\bibinitperiod},
+           given={{Slipgate Ironworks}},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{fullhash}{345006d07de1be0587b01511e8f24fae}
+      \strng{fullhashraw}{345006d07de1be0587b01511e8f24fae}
+      \strng{bibnamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorbibnamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authornamehash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorfullhash}{345006d07de1be0587b01511e8f24fae}
+      \strng{authorfullhashraw}{345006d07de1be0587b01511e8f24fae}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ghostrunner}
+      \field{year}{2020}
     \endentry
     \entry{4}{online}{}{}
       \name{author}{1}{}{%
@@ -1342,6 +1603,39 @@
       \endverb
       \verb{url}
       \verb https://lotr.fandom.com/wiki/Sting?file=Glowingsting2.png
+      \endverb
+    \endentry
+    \entry{potcsword}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5205333f51310a61fbd5480fb0a5c50b}{%
+           family={Teague},
+           familyi={T\bibinitperiod},
+           given={Captain},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{fullhash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{fullhashraw}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{bibnamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorbibnamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authornamehash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorfullhash}{5205333f51310a61fbd5480fb0a5c50b}
+      \strng{authorfullhashraw}{5205333f51310a61fbd5480fb0a5c50b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2010DisneyPiratesNorringtonsCeremonialSword}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://pirates.fandom.com/wiki/James_Norrington%27s_ceremonial_sword?file=2010DisneyPiratesNorringtonsCeremonialSword.jpg
+      \endverb
+      \verb{url}
+      \verb https://pirates.fandom.com/wiki/James_Norrington%27s_ceremonial_sword?file=2010DisneyPiratesNorringtonsCeremonialSword.jpg
       \endverb
     \endentry
     \entry{3}{online}{}{}
