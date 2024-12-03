@@ -3087,21 +3087,11 @@
     <bcf:citekey order="15" intorder="1">delaney1990chekhov</bcf:citekey>
     <bcf:citekey order="16" intorder="1">ghostrunner</bcf:citekey>
     <bcf:citekey order="17" intorder="1">ahsoka</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">furat1998brief</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">mcnab2010swords</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">caesar</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">macbeth</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">fox1894book</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">newyorkflag</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">walker2002rapier12</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">walker2002rapierNoCut</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">walker2002rapier25</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">correa2013history</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">delaney1990chekhov</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">delaney1990chekhov</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">delaney1990chekhov</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">barthes1972semiotics</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">kvietkova2015effect</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">delaney1990chekhov</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">delaney1990chekhov</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">delaney1990chekhov</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">barthes1972semiotics</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">kvietkova2015effect</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

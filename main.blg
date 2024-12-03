@@ -1,21 +1,21 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[82] biber:340> INFO - === Tue Dec  3, 2024, 20:23:33
-[99] Biber.pm:420> INFO - Reading 'main.bcf'
-[191] Biber.pm:994> INFO - Found 26 citekeys in bib section 0
-[216] Biber.pm:4463> INFO - Processing section 0
-[230] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
-[231] bibtex.pm:1713> INFO - LaTeX decoding ...
-[256] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[445] Biber.pm:4283> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[445] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[498] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[498] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[498] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[498] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[523] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[545] bbl.pm:779> INFO - Output to main.bbl
-[545] Biber.pm:131> WARN - legacy year field '2003 - 2017' in entry 'potc' is not an integer - this will probably not sort properly.
-[545] Biber.pm:133> INFO - WARNINGS: 1
+[77] biber:340> INFO - === Tue Dec  3, 2024, 20:24:10
+[93] Biber.pm:420> INFO - Reading 'main.bcf'
+[177] Biber.pm:994> INFO - Found 16 citekeys in bib section 0
+[197] Biber.pm:4463> INFO - Processing section 0
+[206] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
+[207] bibtex.pm:1713> INFO - LaTeX decoding ...
+[230] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[344] Biber.pm:4283> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[344] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[379] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[379] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[379] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[380] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[397] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[410] bbl.pm:779> INFO - Output to main.bbl
+[410] Biber.pm:131> WARN - legacy year field '2003 - 2017' in entry 'potc' is not an integer - this will probably not sort properly.
+[410] Biber.pm:133> INFO - WARNINGS: 1

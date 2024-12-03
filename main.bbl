@@ -116,39 +116,6 @@
       \field{title}{Pirates of the Caribbean}
       \field{year}{2003 - 2017}
     \endentry
-    \entry{correa2013history}{thesis}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d12fe3f20f44c969f2461c23960e544c}{%
-           family={Correa},
-           familyi={C\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {WORCESTER POLYTECHNIC INSTITUTE}%
-      }
-      \strng{namehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{fullhash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{fullhashraw}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{bibnamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorbibnamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authornamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorfullhash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorfullhashraw}{c464336c6c6f150ce15b1b56ded812b9}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The History of The Rapier}
-      \field{type}{phdthesis}
-      \field{year}{2013}
-    \endentry
     \entry{himym}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ecf9185e966e35a10be1a9308d7c1e72}{%
@@ -236,42 +203,6 @@
       \verb https://skyrim.fandom.com/wiki/Imperial_Sword
       \endverb
     \endentry
-    \entry{fox1894book}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ff7d3d77ece601f3a1771cb03df89287}{%
-           family={Fox-Davies},
-           familyi={F\bibinithyphendelim D\bibinitperiod},
-           given={Arthur\bibnamedelima Charles},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f05f3a56fc2bd3391a180784b2fa9e21}{%
-           family={Crookes},
-           familyi={C\bibinitperiod},
-           given={Mary\bibnamedelimb Ellen\bibnamedelima Blanche},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {TC \& EC Jack}%
-      }
-      \strng{namehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{fullhash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{fullhashraw}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{bibnamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorbibnamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authornamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorfullhash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorfullhashraw}{c40365609948a99bd8a2f8eba8b06cfa}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Book of Public Arms: A Cyclop{æ}dia of the Armorial Bearings, Heraldic Devices, and Seals, as Authorized and as Used, of the Counties, Cities, Towns, and Universities of the United Kingdom. Derived from the Official Records}
-      \field{year}{1894}
-    \endentry
     \entry{theduel}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c4d40293823fefc9778afd9893c5e2e6}{%
@@ -304,38 +235,6 @@
       \verb{url}
       \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
       \endverb
-    \endentry
-    \entry{furat1998brief}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b17bf9d178f10a488331cd9aceac5d19}{%
-           family={Furat},
-           familyi={F\bibinitperiod},
-           given={Mehmet\bibnamedelima Fahri},
-           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Istanbul University}%
-      }
-      \strng{namehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{fullhash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{fullhashraw}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{bibnamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorbibnamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authornamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorfullhash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorfullhashraw}{b17bf9d178f10a488331cd9aceac5d19}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Şarkiyat Mecmuas{ı}}
-      \field{number}{8}
-      \field{title}{A Brief Study on Swords}
-      \field{year}{1998}
     \endentry
     \entry{lotr}{book}{}{}
       \name{author}{1}{}{%
@@ -447,38 +346,6 @@
       \field{title}{Star Wars: Ahsoka}
       \field{year}{2023}
     \endentry
-    \entry{mcnab2010swords}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6d097053a71d54b14efdf8b67ee0e8e5}{%
-           family={McNab},
-           familyi={M\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Dorling Kindersley Ltd}%
-      }
-      \strng{namehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{fullhash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{fullhashraw}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{bibnamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorbibnamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authornamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorfullhash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorfullhashraw}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Swords}
-      \field{year}{2010}
-      \field{pages}{pg. 20}
-      \range{pages}{-1}
-    \endentry
     \entry{ghostrunner}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=345006d07de1be0587b01511e8f24fae}{%
@@ -535,87 +402,6 @@
       \verb{url}
       \verb https://rocketbrush.com/blog/most-popular-video-game-genres-in-2024-revenue-statistics-genres-overview
       \endverb
-    \endentry
-    \entry{caesar}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=110b39ecb91db9d4b9469bd4c334ee78}{%
-           family={Roma},
-           familyi={R\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Museo Nazionale di Capodimonte, Naples}%
-      }
-      \strng{namehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{fullhash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{fullhashraw}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{bibnamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorbibnamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authornamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorfullhash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorfullhashraw}{110b39ecb91db9d4b9469bd4c334ee78}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Death of Julius Caesar}
-      \field{year}{1771}
-    \endentry
-    \entry{macbeth}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=878e036d3885377ad13d3702d171ce1f}{%
-           family={Shakespeare},
-           familyi={S\bibinitperiod},
-           given={William},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{fullhash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{fullhashraw}{878e036d3885377ad13d3702d171ce1f}
-      \strng{bibnamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorbibnamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authornamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorfullhash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorfullhashraw}{878e036d3885377ad13d3702d171ce1f}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Macbeth}
-      \field{year}{1606}
-    \endentry
-    \entry{newyorkflag}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=642fcc612570ee36afebc96865d27ff2}{%
-           family={{State of New York}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{fullhash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{fullhashraw}{642fcc612570ee36afebc96865d27ff2}
-      \strng{bibnamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorbibnamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authornamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorfullhash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorfullhashraw}{642fcc612570ee36afebc96865d27ff2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The flag of the U.S. state of New York}
-      \field{year}{1901}
     \endentry
     \entry{Sting}{image}{}{}
       \name{author}{1}{}{%
@@ -736,99 +522,6 @@
       \field{labeltitlesource}{title}
       \field{title}{For Honor}
       \field{year}{2016}
-    \endentry
-    \entry{walker2002rapier12}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{1}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{12}
-      \range{pages}{1}
-    \endentry
-    \entry{walker2002rapierNoCut}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{2}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{26}
-      \range{pages}{1}
-    \endentry
-    \entry{walker2002rapier25}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{3}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{25}
-      \range{pages}{1}
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
@@ -929,39 +622,6 @@
       \field{title}{Pirates of the Caribbean}
       \field{year}{2003 - 2017}
     \endentry
-    \entry{correa2013history}{thesis}{}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d12fe3f20f44c969f2461c23960e544c}{%
-           family={Correa},
-           familyi={C\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {WORCESTER POLYTECHNIC INSTITUTE}%
-      }
-      \strng{namehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{fullhash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{fullhashraw}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{bibnamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorbibnamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authornamehash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorfullhash}{c464336c6c6f150ce15b1b56ded812b9}
-      \strng{authorfullhashraw}{c464336c6c6f150ce15b1b56ded812b9}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The History of The Rapier}
-      \field{type}{phdthesis}
-      \field{year}{2013}
-    \endentry
     \entry{himym}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ecf9185e966e35a10be1a9308d7c1e72}{%
@@ -1049,42 +709,6 @@
       \verb https://skyrim.fandom.com/wiki/Imperial_Sword
       \endverb
     \endentry
-    \entry{fox1894book}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ff7d3d77ece601f3a1771cb03df89287}{%
-           family={Fox-Davies},
-           familyi={F\bibinithyphendelim D\bibinitperiod},
-           given={Arthur\bibnamedelima Charles},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f05f3a56fc2bd3391a180784b2fa9e21}{%
-           family={Crookes},
-           familyi={C\bibinitperiod},
-           given={Mary\bibnamedelimb Ellen\bibnamedelima Blanche},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {TC \& EC Jack}%
-      }
-      \strng{namehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{fullhash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{fullhashraw}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{bibnamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorbibnamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authornamehash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorfullhash}{c40365609948a99bd8a2f8eba8b06cfa}
-      \strng{authorfullhashraw}{c40365609948a99bd8a2f8eba8b06cfa}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Book of Public Arms: A Cyclop{æ}dia of the Armorial Bearings, Heraldic Devices, and Seals, as Authorized and as Used, of the Counties, Cities, Towns, and Universities of the United Kingdom. Derived from the Official Records}
-      \field{year}{1894}
-    \endentry
     \entry{theduel}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c4d40293823fefc9778afd9893c5e2e6}{%
@@ -1117,38 +741,6 @@
       \verb{url}
       \verb https://how-i-met-your-mother.fandom.com/wiki/The_Duel
       \endverb
-    \endentry
-    \entry{furat1998brief}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b17bf9d178f10a488331cd9aceac5d19}{%
-           family={Furat},
-           familyi={F\bibinitperiod},
-           given={Mehmet\bibnamedelima Fahri},
-           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Istanbul University}%
-      }
-      \strng{namehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{fullhash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{fullhashraw}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{bibnamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorbibnamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authornamehash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorfullhash}{b17bf9d178f10a488331cd9aceac5d19}
-      \strng{authorfullhashraw}{b17bf9d178f10a488331cd9aceac5d19}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Şarkiyat Mecmuas{ı}}
-      \field{number}{8}
-      \field{title}{A Brief Study on Swords}
-      \field{year}{1998}
     \endentry
     \entry{lotr}{book}{}{}
       \name{author}{1}{}{%
@@ -1260,38 +852,6 @@
       \field{title}{Star Wars: Ahsoka}
       \field{year}{2023}
     \endentry
-    \entry{mcnab2010swords}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6d097053a71d54b14efdf8b67ee0e8e5}{%
-           family={McNab},
-           familyi={M\bibinitperiod},
-           given={Chris},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Dorling Kindersley Ltd}%
-      }
-      \strng{namehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{fullhash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{fullhashraw}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{bibnamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorbibnamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authornamehash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorfullhash}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \strng{authorfullhashraw}{6d097053a71d54b14efdf8b67ee0e8e5}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Swords}
-      \field{year}{2010}
-      \field{pages}{pg. 20}
-      \range{pages}{-1}
-    \endentry
     \entry{ghostrunner}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=345006d07de1be0587b01511e8f24fae}{%
@@ -1348,87 +908,6 @@
       \verb{url}
       \verb https://rocketbrush.com/blog/most-popular-video-game-genres-in-2024-revenue-statistics-genres-overview
       \endverb
-    \endentry
-    \entry{caesar}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=110b39ecb91db9d4b9469bd4c334ee78}{%
-           family={Roma},
-           familyi={R\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Museo Nazionale di Capodimonte, Naples}%
-      }
-      \strng{namehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{fullhash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{fullhashraw}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{bibnamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorbibnamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authornamehash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorfullhash}{110b39ecb91db9d4b9469bd4c334ee78}
-      \strng{authorfullhashraw}{110b39ecb91db9d4b9469bd4c334ee78}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Death of Julius Caesar}
-      \field{year}{1771}
-    \endentry
-    \entry{macbeth}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=878e036d3885377ad13d3702d171ce1f}{%
-           family={Shakespeare},
-           familyi={S\bibinitperiod},
-           given={William},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{fullhash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{fullhashraw}{878e036d3885377ad13d3702d171ce1f}
-      \strng{bibnamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorbibnamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authornamehash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorfullhash}{878e036d3885377ad13d3702d171ce1f}
-      \strng{authorfullhashraw}{878e036d3885377ad13d3702d171ce1f}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Macbeth}
-      \field{year}{1606}
-    \endentry
-    \entry{newyorkflag}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=642fcc612570ee36afebc96865d27ff2}{%
-           family={{State of New York}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{fullhash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{fullhashraw}{642fcc612570ee36afebc96865d27ff2}
-      \strng{bibnamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorbibnamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authornamehash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorfullhash}{642fcc612570ee36afebc96865d27ff2}
-      \strng{authorfullhashraw}{642fcc612570ee36afebc96865d27ff2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The flag of the U.S. state of New York}
-      \field{year}{1901}
     \endentry
     \entry{Sting}{image}{}{}
       \name{author}{1}{}{%
@@ -1549,99 +1028,6 @@
       \field{labeltitlesource}{title}
       \field{title}{For Honor}
       \field{year}{2016}
-    \endentry
-    \entry{walker2002rapier12}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{1}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{12}
-      \range{pages}{1}
-    \endentry
-    \entry{walker2002rapierNoCut}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{2}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{26}
-      \range{pages}{1}
-    \endentry
-    \entry{walker2002rapier25}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7197d66f52ef30167bf4fab8be8495a7}{%
-           family={Walker},
-           familyi={W\bibinitperiod},
-           given={Henry\bibnamedelima Leigh},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{fullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{bibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorbibnamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authornamehash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhash}{7197d66f52ef30167bf4fab8be8495a7}
-      \strng{authorfullhashraw}{7197d66f52ef30167bf4fab8be8495a7}
-      \field{extraname}{3}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rapier Combat: A Social History}
-      \field{year}{2002}
-      \field{pages}{25}
-      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection

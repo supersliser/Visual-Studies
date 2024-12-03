@@ -7,18 +7,11 @@
 \contentsline {subsection}{\numberline {2.5}How I met your Mother}{8}{}%
 \contentsline {subsection}{\numberline {2.6}Ghostrunner}{9}{}%
 \contentsline {subsection}{\numberline {2.7}Ahsoka}{9}{}%
-\contentsline {section}{\numberline {3}Sword Symbolism}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Short sword}{10}{}%
-\contentsline {subsection}{\numberline {3.2}Dagger}{10}{}%
-\contentsline {subsection}{\numberline {3.3}Longsword}{11}{}%
-\contentsline {subsection}{\numberline {3.4}Sabre}{11}{}%
-\contentsline {subsection}{\numberline {3.5}Rapier}{12}{}%
-\contentsline {subsection}{\numberline {3.6}Greatsword}{13}{}%
-\contentsline {section}{\numberline {4}Iterations of Sword Symbolism}{14}{}%
-\contentsline {subsection}{\numberline {4.1}Iteration of dull sabres}{14}{}%
-\contentsline {subsection}{\numberline {4.2}Iteration of an engraved sabre}{15}{}%
-\contentsline {subsection}{\numberline {4.3}Iteration of a damaged blade}{17}{}%
-\contentsline {subsection}{\numberline {4.4}Iteration of carved longswords}{18}{}%
-\contentsline {subsection}{\numberline {4.5}Iteration of the Holy Longsword}{20}{}%
-\contentsline {subsection}{\numberline {4.6}Iteration of the Cyber Katana}{21}{}%
-\contentsline {subsection}{\numberline {4.7}Iteration of the Ravenous Dagger}{22}{}%
+\contentsline {section}{\numberline {3}Iterations of Sword Symbolism}{10}{}%
+\contentsline {subsection}{\numberline {3.1}Iteration of dull sabres}{10}{}%
+\contentsline {subsection}{\numberline {3.2}Iteration of an engraved sabre}{11}{}%
+\contentsline {subsection}{\numberline {3.3}Iteration of a damaged blade}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Iteration of carved longswords}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Iteration of the Holy Longsword}{16}{}%
+\contentsline {subsection}{\numberline {3.6}Iteration of the Cyber Katana}{17}{}%
+\contentsline {subsection}{\numberline {3.7}Iteration of the Ravenous Dagger}{18}{}%
