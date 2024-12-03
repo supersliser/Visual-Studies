@@ -9,15 +9,15 @@
 \contentsline {subsection}{\numberline {2.5}How I met your Mother}{9}{}%
 \contentsline {subsection}{\numberline {2.6}Ghostrunner}{10}{}%
 \contentsline {subsection}{\numberline {2.7}Ahsoka}{10}{}%
-\contentsline {section}{\numberline {3}Sword Symbolism}{12}{}%
-\contentsline {subsection}{\numberline {3.1}Short sword}{12}{}%
-\contentsline {subsection}{\numberline {3.2}Dagger}{14}{}%
-\contentsline {subsection}{\numberline {3.3}Longsword}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Sabre}{15}{}%
-\contentsline {subsection}{\numberline {3.5}Rapier}{16}{}%
-\contentsline {subsection}{\numberline {3.6}Greatsword}{17}{}%
-\contentsline {section}{\numberline {4}Iterations of Sword Symbolism photography}{18}{}%
-\contentsline {subsection}{\numberline {4.1}Iteration 1}{18}{}%
-\contentsline {subsection}{\numberline {4.2}Iteration 2}{19}{}%
-\contentsline {subsection}{\numberline {4.3}Iteration 3}{21}{}%
-\contentsline {subsection}{\numberline {4.4}Iteration 4}{22}{}%
+\contentsline {section}{\numberline {3}Sword Symbolism}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Short sword}{11}{}%
+\contentsline {subsection}{\numberline {3.2}Dagger}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Longsword}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Sabre}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Rapier}{15}{}%
+\contentsline {subsection}{\numberline {3.6}Greatsword}{16}{}%
+\contentsline {section}{\numberline {4}Iterations of Sword Symbolism photography}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Iteration 1}{17}{}%
+\contentsline {subsection}{\numberline {4.2}Iteration 2}{18}{}%
+\contentsline {subsection}{\numberline {4.3}Iteration 3}{20}{}%
+\contentsline {subsection}{\numberline {4.4}Iteration 4}{21}{}%
