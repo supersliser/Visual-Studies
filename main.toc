@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}Swords in the media}{7}{}%
+\contentsline {subsection}{\numberline {2.1}For Honor}{7}{}%
+\contentsline {subsection}{\numberline {2.2}The Elder Scrolls V: Skyrim}{7}{}%
+\contentsline {subsection}{\numberline {2.3}The Lord of the Rings}{7}{}%
+\contentsline {subsection}{\numberline {2.4}Pirates of the Caribbean}{8}{}%
+\contentsline {subsection}{\numberline {2.5}How I met your Mother}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Ghostrunner}{9}{}%
+\contentsline {subsection}{\numberline {2.7}Ahsoka}{9}{}%
+\contentsline {section}{\numberline {3}Sword Symbolism}{10}{}%
+\contentsline {subsection}{\numberline {3.1}Short sword}{10}{}%
+\contentsline {subsection}{\numberline {3.2}Dagger}{10}{}%
+\contentsline {subsection}{\numberline {3.3}Longsword}{11}{}%
+\contentsline {subsection}{\numberline {3.4}Sabre}{11}{}%
+\contentsline {subsection}{\numberline {3.5}Rapier}{12}{}%
+\contentsline {subsection}{\numberline {3.6}Greatsword}{13}{}%
+\contentsline {section}{\numberline {4}Iterations of Sword Symbolism}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Iteration of dull sabres}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Iteration of an engraved sabre}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Iteration of a damaged blade}{17}{}%
+\contentsline {subsection}{\numberline {4.4}Iteration of carved longswords}{18}{}%
+\contentsline {subsection}{\numberline {4.5}Iteration of the Holy Longsword}{20}{}%
+\contentsline {subsection}{\numberline {4.6}Iteration of the Cyber Katana}{21}{}%
+\contentsline {subsection}{\numberline {4.7}Iteration of the Ravenous Dagger}{22}{}%
