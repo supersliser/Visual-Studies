@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1733257449.44753 "main.bcf" "main.bbl" "main" 1733259146.09307 0
-  "main.bcf" 1733259145.64393 134723 f5168ffa69f123ce2b4622c0b66eac80 "pdflatex"
+["biber main"] 1733268143.43268 "main.bcf" "main.bbl" "main" 1733268732.3305 0
+  "main.bcf" 1733268731.97297 134649 364d26868019bee60779956adba9c088 "pdflatex"
   "ref.bib" 1733256292.06306 7458 83ccdc4c88323bdb4e64b80237b034cc ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733259136.98391 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1733259146.09368 0
-  "/home/supersliser/Documents/Visual Studies/main.tex" 1733259117.9821 29647 29eda5972cd0e58023ce5adee8e5b6ea ""
+["pdflatex"] 1733268727.25701 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1733268732.3309 0
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1733268716.77586 23723 c7e094545914688563e826c87f28cd07 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -96,10 +96,6 @@
   "images/SpearSide.jpg" 1732407220.83981 4907284 6853fd0bcb0893bd613e9e5a951dd773 ""
   "images/Sting.png" 1732407480.87041 153994 d24947d073ad2af1e87fd85959da5224 ""
   "images/cross1.jpg" 1732841873.82899 6410290 4a2ffe38cc9124a4c85abb89cb29e398 ""
-  "images/cross2.1.jpg" 1732842663.64782 5884576 7b9fa9b01d50524ca0716dffe00c61a3 ""
-  "images/cross2.2.jpg" 1732842663.61482 8834637 8027f8a8ac5b22de70555268e8f86683 ""
-  "images/cross2.3.jpg" 1732842663.58482 6704661 677595e0811b6d203a8b0dd28ce931c2 ""
-  "images/cross2.4.jpg" 1732842663.55782 4020253 222764d5926a0cf7bfb39e298bda9b0a ""
   "images/cross2.jpg" 1732841873.78799 6354806 b374d6edbbd4156545b74da36cf6fff9 ""
   "images/cross3.jpg" 1732841873.77399 7995442 635b343961cc5fe8c7bb1d10ae07d45d ""
   "images/cross4.jpg" 1732841873.74698 4350449 617299b43f7196f02a06aca5f19e2428 ""
@@ -108,12 +104,11 @@
   "images/drawings/HolyLongsword.png" 1733253955.21402 690984 244cd0c1520298fc0105774c20dbf1bb ""
   "images/drawings/RavenousDagger1.png" 1733253955.21502 167559 d180cffa25c8495b3ff21a0cd9e63e1e ""
   "images/drawings/RavenousDagger2.png" 1733253955.21702 238723 06caa333220b134292214c36b94e25ac ""
-  "images/drawings/TekKatana.png" 1733253955.21902 295994 1331f77fd54735c40dd8d13e2f4945cc ""
-  "main.aux" 1733259145.63892 12731 4434ba744cc142e7a8184a834c3b0154 "pdflatex"
-  "main.bbl" 1733257450.81751 43858 cb785404924170bf97ebfc3dc66dca7e "biber main"
-  "main.run.xml" 1733259145.64593 2420 037752900427d53470ab58bfebae51be "pdflatex"
-  "main.tex" 1733259117.9821 29647 29eda5972cd0e58023ce5adee8e5b6ea ""
-  "main.toc" 1733259145.64593 1260 6e6923b00998977372d89679e7e1c966 "pdflatex"
+  "main.aux" 1733268731.96997 11610 381cf715e6cda45c7f76370fa14b1832 "pdflatex"
+  "main.bbl" 1733268148.7825 43858 cb785404924170bf97ebfc3dc66dca7e "biber main"
+  "main.run.xml" 1733268731.97497 2420 037752900427d53470ab58bfebae51be "pdflatex"
+  "main.tex" 1733268716.77586 23723 c7e094545914688563e826c87f28cd07 ""
+  "main.toc" 1733268731.97497 1176 93558e7cf55a178bf4493ed19e131e15 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

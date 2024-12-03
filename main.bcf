@@ -3089,9 +3089,8 @@
     <bcf:citekey order="17" intorder="1">ahsoka</bcf:citekey>
     <bcf:citekey order="18" intorder="1">delaney1990chekhov</bcf:citekey>
     <bcf:citekey order="19" intorder="1">delaney1990chekhov</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">delaney1990chekhov</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">barthes1972semiotics</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">kvietkova2015effect</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">barthes1972semiotics</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">kvietkova2015effect</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

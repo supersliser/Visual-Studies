@@ -1,17 +1,16 @@
 \contentsline {section}{\numberline {1}Introduction}{3}{}%
-\contentsline {section}{\numberline {2}Swords in the media}{7}{}%
-\contentsline {subsection}{\numberline {2.1}For Honor}{7}{}%
-\contentsline {subsection}{\numberline {2.2}The Elder Scrolls V: Skyrim}{7}{}%
-\contentsline {subsection}{\numberline {2.3}The Lord of the Rings}{7}{}%
-\contentsline {subsection}{\numberline {2.4}Pirates of the Caribbean}{8}{}%
-\contentsline {subsection}{\numberline {2.5}How I met your Mother}{8}{}%
-\contentsline {subsection}{\numberline {2.6}Ghostrunner}{9}{}%
-\contentsline {subsection}{\numberline {2.7}Ahsoka}{9}{}%
-\contentsline {section}{\numberline {3}Iterations of Sword Symbolism}{10}{}%
-\contentsline {subsection}{\numberline {3.1}Iteration of dull sabres}{10}{}%
-\contentsline {subsection}{\numberline {3.2}Iteration of an engraved sabre}{11}{}%
-\contentsline {subsection}{\numberline {3.3}Iteration of a damaged blade}{13}{}%
-\contentsline {subsection}{\numberline {3.4}Iteration of carved longswords}{14}{}%
-\contentsline {subsection}{\numberline {3.5}Iteration of the Holy Longsword}{16}{}%
-\contentsline {subsection}{\numberline {3.6}Iteration of the Cyber Katana}{17}{}%
-\contentsline {subsection}{\numberline {3.7}Iteration of the Ravenous Dagger}{18}{}%
+\contentsline {section}{\numberline {2}Swords in the media}{5}{}%
+\contentsline {subsection}{\numberline {2.1}For Honor}{5}{}%
+\contentsline {subsection}{\numberline {2.2}The Elder Scrolls V: Skyrim}{6}{}%
+\contentsline {subsection}{\numberline {2.3}The Lord of the Rings}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Pirates of the Caribbean}{6}{}%
+\contentsline {subsection}{\numberline {2.5}How I met your Mother}{7}{}%
+\contentsline {subsection}{\numberline {2.6}Ghostrunner}{7}{}%
+\contentsline {subsection}{\numberline {2.7}Ahsoka}{8}{}%
+\contentsline {section}{\numberline {3}Iterations of Sword Symbolism}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Iteration of dull sabres}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Iteration of an engraved sabre}{10}{}%
+\contentsline {subsection}{\numberline {3.3}Iteration of a damaged blade}{12}{}%
+\contentsline {subsection}{\numberline {3.4}Iteration of carved longswords}{13}{}%
+\contentsline {subsection}{\numberline {3.5}Iteration of the Holy Longsword}{15}{}%
+\contentsline {subsection}{\numberline {3.6}Iteration of the Ravenous Dagger}{16}{}%
