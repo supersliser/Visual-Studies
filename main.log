@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  3 DEC 2024 16:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  3 DEC 2024 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -765,20 +765,49 @@ Package pdftex.def Info: ./images/Iteration4.2.jpg  used on input line 427.
 [21 <./images/Iteration4.1.jpg> <./images/Iteration4.2.jpg>]
 
 [22]
-Overfull \hbox (14.37155pt too wide) in paragraph at lines 444--444
+<./images/drawings/HolyLongsword.png, id=119, 4111.36pt x 4111.36pt>
+File: ./images/drawings/HolyLongsword.png Graphic file (type png)
+<use ./images/drawings/HolyLongsword.png>
+Package pdftex.def Info: ./images/drawings/HolyLongsword.png  used on input line 448.
+(pdftex.def)             Requested size: 172.5pt x 172.45638pt.
+
+
+[23 <./images/drawings/HolyLongsword.png>]
+<./images/drawings/TekKatana.png, id=123, 4111.36pt x 4111.36pt>
+File: ./images/drawings/TekKatana.png Graphic file (type png)
+<use ./images/drawings/TekKatana.png>
+Package pdftex.def Info: ./images/drawings/TekKatana.png  used on input line 461.
+(pdftex.def)             Requested size: 276.00105pt x 275.96783pt.
+
+
+[24 <./images/drawings/TekKatana.png>]
+<./images/drawings/RavenousDagger1.png, id=127, 4111.36pt x 4111.36pt>
+File: ./images/drawings/RavenousDagger1.png Graphic file (type png)
+<use ./images/drawings/RavenousDagger1.png>
+Package pdftex.def Info: ./images/drawings/RavenousDagger1.png  used on input line 476.
+(pdftex.def)             Requested size: 169.0519pt x 169.00598pt.
+<./images/drawings/RavenousDagger2.png, id=128, 4111.36pt x 4111.36pt>
+File: ./images/drawings/RavenousDagger2.png Graphic file (type png)
+<use ./images/drawings/RavenousDagger2.png>
+Package pdftex.def Info: ./images/drawings/RavenousDagger2.png  used on input line 481.
+(pdftex.def)             Requested size: 169.0519pt x 169.00598pt.
+
+
+[25 <./images/drawings/RavenousDagger1.png> <./images/drawings/RavenousDagger2.png>]
+Overfull \hbox (14.37155pt too wide) in paragraph at lines 492--492
 [][]\OT1/cmr/m/n/10 Correa, R., et al. (2013). \OT1/cmr/m/it/10 The his-tory of the rapier \OT1/cmr/m/n/10 [Doc-toral dis-ser-ta-tion, WORCES-
  []
 
 
-Overfull \hbox (7.74617pt too wide) in paragraph at lines 444--444
+
+[26]
+Overfull \hbox (7.74617pt too wide) in paragraph at lines 492--492
 [][]\OT1/cmr/m/n/10 Teague, C. (2010). 2010dis-neypi-rates-nor-ring-ton-scer-e-mo-ni-alsword. $https : / / pirates .
  []
 
 
 
-[23]
-
-[24] (./main.aux)
+[27] (./main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -788,18 +817,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12495 strings out of 473362
- 246911 string characters out of 5720990
- 1154308 words of memory out of 5000000
- 35514 multiletter control sequences out of 15000+600000
+ 12549 strings out of 473362
+ 248775 string characters out of 5720990
+ 1154680 words of memory out of 5000000
+ 35568 multiletter control sequences out of 15000+600000
  563304 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,8n,81p,2036b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (24 pages, 228514490 bytes).
+Output written on main.pdf (27 pages, 231164225 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 175 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

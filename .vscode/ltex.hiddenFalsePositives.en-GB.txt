@@ -11,3 +11,6 @@
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QA collection of artisticly designed crossbars and handguards The circular crossbar of a rapier with patterns engraved into the metal.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThere is a running joke within the series that concerns a particular sword: A rapier produced by the character William Turner for the Commodore James Norrington.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThe \"nice sword\" crafted by William Turner for Commodore James Norrington\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QIn a real use case, the weapon would likely see posing and usage to allow it to fulfil the prophecy of Chekhov's Gun \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, however, this would also require features outside of the weapon itself.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QFurthermore, the pummel of the handle and the cross feature a pattern commonly found on a catholic cross, with the overall shape and relative proportions of the handle and cross working to\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QFurthermore, the pummel of the handle and the cross feature a pattern commonly found on a catholic cross, with the overall shape and relative proportions of the handle and cross work to further this iconography of that of a catholic cross\\E$"}

@@ -463,6 +463,62 @@
       \field{title}{The Lord of the Rings}
       \field{year}{2001}
     \endentry
+    \entry{kvietkova2015effect}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2e82ae23a9c3a7005a7521aef36dbd4b}{%
+           family={Kvietková},
+           familyi={K\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e39356750a1b6a3222334135774fc46}{%
+           family={Gaff},
+           familyi={G\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=594134ba76233fdee18296804faba8ba}{%
+           family={Gašparík},
+           familyi={G\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cc110d1cec840278a3e5dba1c5f8e99}{%
+           family={Kminiak},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=688693838e1cc2ab6994ab8198933423}{%
+           family={Kriš},
+           familyi={K\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08093e2047e0a8a60054b4d0b9f43876}
+      \strng{fullhash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{fullhashraw}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{bibnamehash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authorbibnamehash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authornamehash}{08093e2047e0a8a60054b4d0b9f43876}
+      \strng{authorfullhash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authorfullhashraw}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioResources}
+      \field{number}{1}
+      \field{title}{Effect of number of saw blade teeth on noise level and wear of blade edges during cutting of wood}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{1657\bibrangedash 1666}
+      \range{pages}{10}
+    \endentry
     \entry{lilly2012war}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bfa7a98e3581730c954fe1823382d062}{%
@@ -1346,6 +1402,62 @@
       \field{labeltitlesource}{title}
       \field{title}{The Lord of the Rings}
       \field{year}{2001}
+    \endentry
+    \entry{kvietkova2015effect}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=2e82ae23a9c3a7005a7521aef36dbd4b}{%
+           family={Kvietková},
+           familyi={K\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e39356750a1b6a3222334135774fc46}{%
+           family={Gaff},
+           familyi={G\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=594134ba76233fdee18296804faba8ba}{%
+           family={Gašparík},
+           familyi={G\bibinitperiod},
+           given={Miroslav},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cc110d1cec840278a3e5dba1c5f8e99}{%
+           family={Kminiak},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=688693838e1cc2ab6994ab8198933423}{%
+           family={Kriš},
+           familyi={K\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08093e2047e0a8a60054b4d0b9f43876}
+      \strng{fullhash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{fullhashraw}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{bibnamehash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authorbibnamehash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authornamehash}{08093e2047e0a8a60054b4d0b9f43876}
+      \strng{authorfullhash}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \strng{authorfullhashraw}{7a73ddb6e3c4715b2ff286b1b163f136}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioResources}
+      \field{number}{1}
+      \field{title}{Effect of number of saw blade teeth on noise level and wear of blade edges during cutting of wood}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{1657\bibrangedash 1666}
+      \range{pages}{10}
     \endentry
     \entry{lilly2012war}{article}{}{}
       \name{author}{1}{}{%

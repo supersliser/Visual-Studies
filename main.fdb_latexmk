@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1732894685.90466 "main.bcf" "main.bbl" "main" 1733242747.26222 0
-  "main.bcf" 1733242747.08014 135633 f19932deb2c4456a06ecd66371935108 "pdflatex"
-  "ref.bib" 1732894668.00712 7081 50ebc573a6bcf966083f52e4d9364dcd ""
+["biber main"] 1733256733.25239 "main.bcf" "main.bbl" "main" 1733256768.30491 0
+  "main.bcf" 1733256767.68483 135708 7eb3d060b30d0b8d3aa34c0486a5f0f3 "pdflatex"
+  "ref.bib" 1733256292.06306 7458 83ccdc4c88323bdb4e64b80237b034cc ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733242743.76101 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1733242747.26269 0
-  "/home/supersliser/Documents/Visual Studies/main.tex" 1733242735.17811 41550 e969dd682265a3fdef9dffcbe2129980 ""
+["pdflatex"] 1733256757.32158 "/home/supersliser/Documents/Visual Studies/main.tex" "main.pdf" "main" 1733256768.30551 0
+  "/home/supersliser/Documents/Visual Studies/main.tex" 1733256721.92466 46617 487d5c0c0243f2dca81bb2c14d9c75e4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -118,11 +118,15 @@
   "images/cross4.jpg" 1732841873.74698 4350449 617299b43f7196f02a06aca5f19e2428 ""
   "images/cross5.jpg" 1732841873.71998 6224467 71b28d6df64f11fdd8389a0dc800a18e ""
   "images/cross6.jpg" 1732841873.69398 5973895 215e2c7304ceac5f28db9293979d3b63 ""
-  "main.aux" 1733242747.07714 17885 e2aa292b9d4eaede9c067fcb55ce6f75 "pdflatex"
-  "main.bbl" 1732894687.41298 76864 3449a71141bb100c62244fb7778734fd "biber main"
-  "main.run.xml" 1733242747.08114 2420 037752900427d53470ab58bfebae51be "pdflatex"
-  "main.tex" 1733242735.17811 41550 e969dd682265a3fdef9dffcbe2129980 ""
-  "main.toc" 1733242747.08114 1505 cc22aa2f9b306d0e2c6f27d097761acc "pdflatex"
+  "images/drawings/HolyLongsword.png" 1733253955.21402 690984 244cd0c1520298fc0105774c20dbf1bb ""
+  "images/drawings/RavenousDagger1.png" 1733253955.21502 167559 d180cffa25c8495b3ff21a0cd9e63e1e ""
+  "images/drawings/RavenousDagger2.png" 1733253955.21702 238723 06caa333220b134292214c36b94e25ac ""
+  "images/drawings/TekKatana.png" 1733253955.21902 295994 1331f77fd54735c40dd8d13e2f4945cc ""
+  "main.aux" 1733256767.67683 19474 b418f2ca17425e2005ca1074d153159f "pdflatex"
+  "main.bbl" 1733256735.78771 81450 30d298d31463ab8c6bc46da591aa82c7 "biber main"
+  "main.run.xml" 1733256767.68683 2420 037752900427d53470ab58bfebae51be "pdflatex"
+  "main.tex" 1733256721.92466 46617 487d5c0c0243f2dca81bb2c14d9c75e4 ""
+  "main.toc" 1733256767.68683 1812 bfe7c5b3719500bd3bae622506a777a7 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
