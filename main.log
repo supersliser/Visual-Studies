@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  3 DEC 2024 20:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  3 DEC 2024 20:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -445,9 +445,9 @@ LaTeX Warning: No \author given.
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -480,355 +480,36 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <./images/SaberDamagedBlade1.jpg, id=20, 8190.6pt x 6167.04pt>
 File: ./images/SaberDamagedBlade1.jpg Graphic file (type jpg)
 <use ./images/SaberDamagedBlade1.jpg>
-Package pdftex.def Info: ./images/SaberDamagedBlade1.jpg  used on input line 71.
+Package pdftex.def Info: ./images/SaberDamagedBlade1.jpg  used on input line 69.
 (pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
 <./images/SpearSide.jpg, id=21, 8190.6pt x 6167.04pt>
 File: ./images/SpearSide.jpg Graphic file (type jpg)
 <use ./images/SpearSide.jpg>
-Package pdftex.def Info: ./images/SpearSide.jpg  used on input line 76.
+Package pdftex.def Info: ./images/SpearSide.jpg  used on input line 74.
 (pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
 <./images/Dagger2.jpg, id=22, 4095.3pt x 3083.52pt>
 File: ./images/Dagger2.jpg Graphic file (type jpg)
 <use ./images/Dagger2.jpg>
-Package pdftex.def Info: ./images/Dagger2.jpg  used on input line 82.
+Package pdftex.def Info: ./images/Dagger2.jpg  used on input line 80.
 (pdftex.def)             Requested size: 172.5pt x 129.85983pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./images/LargeBladeDagger.jpg, id=23, 8190.6pt x 6167.04pt>
-File: ./images/LargeBladeDagger.jpg Graphic file (type jpg)
-<use ./images/LargeBladeDagger.jpg>
-Package pdftex.def Info: ./images/LargeBladeDagger.jpg  used on input line 92.
-(pdftex.def)             Requested size: 86.25pt x 64.92992pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[4 <./images/1HandLongswordBlade.jpg> <./images/Saber3Handle.jpg> <./images/OrnateShortswordHandle.jpg>]
-
-[5 <./images/SaberDamagedBlade1.jpg> <./images/SpearSide.jpg> <./images/Dagger2.jpg>]
-<./images/cross6.jpg, id=31, 6167.04pt x 8190.6pt>
+<./images/cross6.jpg, id=23, 6167.04pt x 8190.6pt>
 File: ./images/cross6.jpg Graphic file (type jpg)
 <use ./images/cross6.jpg>
-Package pdftex.def Info: ./images/cross6.jpg  used on input line 110.
+Package pdftex.def Info: ./images/cross6.jpg  used on input line 94.
 (pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
 
-Underfull \hbox (badness 2608) in paragraph at lines 111--111
+Underfull \hbox (badness 2608) in paragraph at lines 95--95
 []\OT1/cmr/m/n/9 (a) |The cross-bar of a
  []
 
-<./images/cross2.jpg, id=32, 8190.6pt x 6167.04pt>
+<./images/cross2.jpg, id=24, 8190.6pt x 6167.04pt>
 File: ./images/cross2.jpg Graphic file (type jpg)
 <use ./images/cross2.jpg>
-Package pdftex.def Info: ./images/cross2.jpg  used on input line 116.
+Package pdftex.def Info: ./images/cross2.jpg  used on input line 100.
 (pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
 
-Underfull \hbox (badness 1205) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/9 (b) |The cross-bars of 2
- []
-
-<./images/cross3.jpg, id=33, 6167.04pt x 8190.6pt>
-File: ./images/cross3.jpg Graphic file (type jpg)
-<use ./images/cross3.jpg>
-Package pdftex.def Info: ./images/cross3.jpg  used on input line 122.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-<./images/cross4.jpg, id=34, 8190.6pt x 6167.04pt>
-File: ./images/cross4.jpg Graphic file (type jpg)
-<use ./images/cross4.jpg>
-Package pdftex.def Info: ./images/cross4.jpg  used on input line 128.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-
-Underfull \hbox (badness 5924) in paragraph at lines 129--129
-[]\OT1/cmr/m/n/9 (d) |The cross-bar and
- []
-
-<./images/cross5.jpg, id=35, 8190.6pt x 6167.04pt>
-File: ./images/cross5.jpg Graphic file (type jpg)
-<use ./images/cross5.jpg>
-Package pdftex.def Info: ./images/cross5.jpg  used on input line 134.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-<./images/cross1.jpg, id=36, 8190.6pt x 6167.04pt>
-File: ./images/cross1.jpg Graphic file (type jpg)
-<use ./images/cross1.jpg>
-Package pdftex.def Info: ./images/cross1.jpg  used on input line 140.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-
-Underfull \hbox (badness 3108) in paragraph at lines 141--141
-[]\OT1/cmr/m/n/9 (f) |The cross-bar of a
- []
-
-
-
-[6 <./images/LargeBladeDagger.jpg> <./images/cross6.jpg> <./images/cross2.jpg> <./images/cross3.jpg> <./images/cross4.jpg> <./images/cross5.jpg> <./images/cross1.jpg>]
-<./images/cross2.1.jpg, id=40, 6167.04pt x 8190.6pt>
-File: ./images/cross2.1.jpg Graphic file (type jpg)
-<use ./images/cross2.1.jpg>
-Package pdftex.def Info: ./images/cross2.1.jpg  used on input line 154.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-<./images/cross2.2.jpg, id=41, 6167.04pt x 8190.6pt>
-File: ./images/cross2.2.jpg Graphic file (type jpg)
-<use ./images/cross2.2.jpg>
-Package pdftex.def Info: ./images/cross2.2.jpg  used on input line 160.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-<./images/cross2.4.jpg, id=42, 3083.52pt x 4095.3pt>
-File: ./images/cross2.4.jpg Graphic file (type jpg)
-<use ./images/cross2.4.jpg>
-Package pdftex.def Info: ./images/cross2.4.jpg  used on input line 166.
-(pdftex.def)             Requested size: 103.50105pt x 137.41367pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-\OT1/cmr/m/n/9 sic spindly hand-guard
- []
-
-<./images/cross2.3.jpg, id=43, 8190.6pt x 6167.04pt>
-File: ./images/cross2.3.jpg Graphic file (type jpg)
-<use ./images/cross2.3.jpg>
-Package pdftex.def Info: ./images/cross2.3.jpg  used on input line 172.
-(pdftex.def)             Requested size: 258.75pt x 194.78975pt.
-
-
-[7 <./images/cross2.1.jpg> <./images/cross2.2.jpg> <./images/cross2.4.jpg> <./images/cross2.3.jpg>]
-<./images/ImperialSword.png, id=48, 2208.25pt x 2208.25pt>
-File: ./images/ImperialSword.png Graphic file (type png)
-<use ./images/ImperialSword.png>
-Package pdftex.def Info: ./images/ImperialSword.png  used on input line 190.
-(pdftex.def)             Requested size: 86.25pt x 86.22586pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
-\OT1/cmr/m/n/10 from the game
- []
-
-<./images/Sting.png, id=50, 469.755pt x 274.02374pt>
-File: ./images/Sting.png Graphic file (type png)
-<use ./images/Sting.png>
-Package pdftex.def Info: ./images/Sting.png  used on input line 207.
-(pdftex.def)             Requested size: 172.5pt x 100.62202pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[8 <./images/ImperialSword.png>]
-<./images/Norringtonssword.png, id=56, 619.31375pt x 187.70125pt>
-File: ./images/Norringtonssword.png Graphic file (type png)
-<use ./images/Norringtonssword.png>
-Package pdftex.def Info: ./images/Norringtonssword.png  used on input line 217.
-(pdftex.def)             Requested size: 276.00105pt x 83.65424pt.
-
-
-[9 <./images/Sting.png> <./images/Norringtonssword.png>]
-
-[10]
-<./images/SwordToKillChild2.jpg, id=63, 6167.04pt x 8190.6pt>
-File: ./images/SwordToKillChild2.jpg Graphic file (type jpg)
-<use ./images/SwordToKillChild2.jpg>
-Package pdftex.def Info: ./images/SwordToKillChild2.jpg  used on input line 252.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-
-Underfull \hbox (badness 2418) in paragraph at lines 253--253
-[]\OT1/cmr/m/n/9 (a) |A short-sword used
- []
-
-<./images/DavidShortsword.jpg, id=64, 8190.6pt x 6167.04pt>
-File: ./images/DavidShortsword.jpg Graphic file (type jpg)
-<use ./images/DavidShortsword.jpg>
-Package pdftex.def Info: ./images/DavidShortsword.jpg  used on input line 257.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/NewVSOldTestament.jpg, id=65, 6167.04pt x 8190.6pt>
-File: ./images/NewVSOldTestament.jpg Graphic file (type jpg)
-<use ./images/NewVSOldTestament.jpg>
-Package pdftex.def Info: ./images/NewVSOldTestament.jpg  used on input line 266.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-
-
-[11{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-[12 <./images/SwordToKillChild2.jpg> <./images/DavidShortsword.jpg> <./images/NewVSOldTestament.jpg>]
-<./images/PersiusWithDagger.jpg, id=73, 8190.6pt x 6167.04pt>
-File: ./images/PersiusWithDagger.jpg Graphic file (type jpg)
-<use ./images/PersiusWithDagger.jpg>
-Package pdftex.def Info: ./images/PersiusWithDagger.jpg  used on input line 281.
-(pdftex.def)             Requested size: 172.5pt x 129.85983pt.
-
-
-[13 <./images/PersiusWithDagger.jpg>]
-<./images/Saber4Blade.jpg, id=78, 8190.6pt x 6167.04pt>
-File: ./images/Saber4Blade.jpg Graphic file (type jpg)
-<use ./images/Saber4Blade.jpg>
-Package pdftex.def Info: ./images/Saber4Blade.jpg  used on input line 301.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-
-Underfull \hbox (badness 6316) in paragraph at lines 302--302
-[]\OT1/cmr/m/n/9 (a) |An or-nate golden
- []
-
-<./images/Saber5.jpg, id=79, 8190.6pt x 6167.04pt>
-File: ./images/Saber5.jpg Graphic file (type jpg)
-<use ./images/Saber5.jpg>
-Package pdftex.def Info: ./images/Saber5.jpg  used on input line 306.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-<./images/Saber6.jpg, id=80, 8190.6pt x 6167.04pt>
-File: ./images/Saber6.jpg Graphic file (type jpg)
-<use ./images/Saber6.jpg>
-Package pdftex.def Info: ./images/Saber6.jpg  used on input line 311.
-(pdftex.def)             Requested size: 103.50105pt x 77.9159pt.
-
-Underfull \hbox (badness 1331) in paragraph at lines 312--312
-\OT1/cmr/m/n/9 an en-grav-ing along the
- []
-
-<./images/Saber2.jpg, id=81, 6167.04pt x 8190.6pt>
-File: ./images/Saber2.jpg Graphic file (type jpg)
-<use ./images/Saber2.jpg>
-Package pdftex.def Info: ./images/Saber2.jpg  used on input line 316.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-
-Underfull \hbox (badness 6428) in paragraph at lines 317--317
-\OT1/cmr/m/n/9 ers sword fea-tur-ing a
- []
-
-<./images/Saber3.jpg, id=82, 6167.04pt x 8190.6pt>
-File: ./images/Saber3.jpg Graphic file (type jpg)
-<use ./images/Saber3.jpg>
-Package pdftex.def Info: ./images/Saber3.jpg  used on input line 321.
-(pdftex.def)             Requested size: 103.50105pt x 137.35118pt.
-
-Underfull \hbox (badness 1521) in paragraph at lines 322--322
-[]\OT1/cmr/m/n/9 (e) |An in-fantry hanger
- []
-
-
-
-[14]
-
-[15 <./images/Saber4Blade.jpg> <./images/Saber5.jpg> <./images/Saber6.jpg> <./images/Saber2.jpg> <./images/Saber3.jpg>]
-
-[16]
-<./images/Iteration1.1.jpg, id=92, 6167.04pt x 8190.6pt>
-File: ./images/Iteration1.1.jpg Graphic file (type jpg)
-<use ./images/Iteration1.1.jpg>
-Package pdftex.def Info: ./images/Iteration1.1.jpg  used on input line 348.
-(pdftex.def)             Requested size: 169.0519pt x 224.46107pt.
-<./images/Iteration1.2.jpg, id=93, 8190.6pt x 6167.04pt>
-File: ./images/Iteration1.2.jpg Graphic file (type jpg)
-<use ./images/Iteration1.2.jpg>
-Package pdftex.def Info: ./images/Iteration1.2.jpg  used on input line 353.
-(pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
-
-
-[17 <./images/Iteration1.1.jpg> <./images/Iteration1.2.jpg>]
-<./images/Iteration2.1.jpg, id=97, 6167.04pt x 8190.6pt>
-File: ./images/Iteration2.1.jpg Graphic file (type jpg)
-<use ./images/Iteration2.1.jpg>
-Package pdftex.def Info: ./images/Iteration2.1.jpg  used on input line 370.
-(pdftex.def)             Requested size: 169.0519pt x 224.46107pt.
-<./images/Iteration2.2.jpg, id=98, 8190.6pt x 6167.04pt>
-File: ./images/Iteration2.2.jpg Graphic file (type jpg)
-<use ./images/Iteration2.2.jpg>
-Package pdftex.def Info: ./images/Iteration2.2.jpg  used on input line 375.
-(pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
-
-
-[18 <./images/Iteration2.1.jpg> <./images/Iteration2.2.jpg>]
-
-[19]
-<./images/Iteration3.1.jpg, id=106, 8190.6pt x 6167.04pt>
-File: ./images/Iteration3.1.jpg Graphic file (type jpg)
-<use ./images/Iteration3.1.jpg>
-Package pdftex.def Info: ./images/Iteration3.1.jpg  used on input line 396.
-(pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
-<./images/Iteration3.2.jpg, id=107, 8190.6pt x 6167.04pt>
-File: ./images/Iteration3.2.jpg Graphic file (type jpg)
-<use ./images/Iteration3.2.jpg>
-Package pdftex.def Info: ./images/Iteration3.2.jpg  used on input line 401.
-(pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
-
-
-[20 <./images/Iteration3.1.jpg> <./images/Iteration3.2.jpg>]
-<./images/Iteration4.1.jpg, id=111, 6167.04pt x 8190.6pt>
-File: ./images/Iteration4.1.jpg Graphic file (type jpg)
-<use ./images/Iteration4.1.jpg>
-Package pdftex.def Info: ./images/Iteration4.1.jpg  used on input line 422.
-(pdftex.def)             Requested size: 169.0519pt x 224.46107pt.
-<./images/Iteration4.2.jpg, id=112, 8190.6pt x 6167.04pt>
-File: ./images/Iteration4.2.jpg Graphic file (type jpg)
-<use ./images/Iteration4.2.jpg>
-Package pdftex.def Info: ./images/Iteration4.2.jpg  used on input line 427.
-(pdftex.def)             Requested size: 169.0519pt x 127.22499pt.
-
-
-[21 <./images/Iteration4.1.jpg> <./images/Iteration4.2.jpg>]
-
-[22]
-<./images/drawings/HolyLongsword.png, id=119, 4111.36pt x 4111.36pt>
-File: ./images/drawings/HolyLongsword.png Graphic file (type png)
-<use ./images/drawings/HolyLongsword.png>
-Package pdftex.def Info: ./images/drawings/HolyLongsword.png  used on input line 448.
-(pdftex.def)             Requested size: 172.5pt x 172.45638pt.
-
-
-[23 <./images/drawings/HolyLongsword.png>]
-<./images/drawings/TekKatana.png, id=123, 4111.36pt x 4111.36pt>
-File: ./images/drawings/TekKatana.png Graphic file (type png)
-<use ./images/drawings/TekKatana.png>
-Package pdftex.def Info: ./images/drawings/TekKatana.png  used on input line 461.
-(pdftex.def)             Requested size: 276.00105pt x 275.96783pt.
-
-
-[24 <./images/drawings/TekKatana.png>]
-<./images/drawings/RavenousDagger1.png, id=127, 4111.36pt x 4111.36pt>
-File: ./images/drawings/RavenousDagger1.png Graphic file (type png)
-<use ./images/drawings/RavenousDagger1.png>
-Package pdftex.def Info: ./images/drawings/RavenousDagger1.png  used on input line 476.
-(pdftex.def)             Requested size: 169.0519pt x 169.00598pt.
-<./images/drawings/RavenousDagger2.png, id=128, 4111.36pt x 4111.36pt>
-File: ./images/drawings/RavenousDagger2.png Graphic file (type png)
-<use ./images/drawings/RavenousDagger2.png>
-Package pdftex.def Info: ./images/drawings/RavenousDagger2.png  used on input line 481.
-(pdftex.def)             Requested size: 169.0519pt x 169.00598pt.
-
-
-[25 <./images/drawings/RavenousDagger1.png> <./images/drawings/RavenousDagger2.png>]
-Overfull \hbox (14.37155pt too wide) in paragraph at lines 492--492
-[][]\OT1/cmr/m/n/10 Correa, R., et al. (2013). \OT1/cmr/m/it/10 The his-tory of the rapier \OT1/cmr/m/n/10 [Doc-toral dis-ser-ta-tion, WORCES-
- []
-
-
-
-[26]
-Overfull \hbox (7.74617pt too wide) in paragraph at lines 492--492
-[][]\OT1/cmr/m/n/10 Teague, C. (2010). 2010dis-neypi-rates-nor-ring-ton-scer-e-mo-ni-alsword. $https : / / pirates .
- []
-
-
-
-[27] (./main.aux)
- ***********
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
- ***********
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 12549 strings out of 473362
- 248775 string characters out of 5720990
- 1154680 words of memory out of 5000000
- 35568 multiletter control sequences out of 15000+600000
- 563304 words of font info for 53 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 67i,8n,81p,2036b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (27 pages, 231164225 bytes).
-PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Underfull \hbox (badness 1205) 

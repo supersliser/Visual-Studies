@@ -116,45 +116,6 @@
       \field{title}{Pirates of the Caribbean}
       \field{year}{2003 - 2017}
     \endentry
-    \entry{bunn2017archimedes}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
-           family={Bunn},
-           familyi={B\bibinitperiod},
-           given={James\bibnamedelima H},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
-           family={Bunn},
-           familyi={B\bibinitperiod},
-           given={James\bibnamedelima H},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{fullhash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{fullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{bibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorbibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authornamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorfullhash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorfullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Balancing the Common Core Curriculum in Middle School Education: Composing Archimedes' Lever, the Equation, and the Sentence as an Interdisciplinary Unity}
-      \field{title}{Archimedes’ lever}
-      \field{year}{2017}
-      \field{pages}{35\bibrangedash 81}
-      \range{pages}{47}
-    \endentry
     \entry{correa2013history}{thesis}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -214,34 +175,6 @@
       \field{labeltitlesource}{title}
       \field{title}{How I Met Your Mother}
       \field{year}{2005}
-    \endentry
-    \entry{creach2016violence}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1e3b652a863141f51b0dbf611c7c5ede}{%
-           family={Creach},
-           familyi={C\bibinitperiod},
-           given={Jerome\bibnamedelima FD},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{fullhash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{fullhashraw}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{bibnamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorbibnamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authornamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorfullhash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorfullhashraw}{1e3b652a863141f51b0dbf611c7c5ede}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Oxford Research Encyclopedia of Religion}
-      \field{title}{Violence in the Old Testament}
-      \field{year}{2016}
     \endentry
     \entry{delaney1990chekhov}{misc}{}{}
       \name{author}{1}{}{%
@@ -338,38 +271,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The Book of Public Arms: A Cyclop{æ}dia of the Armorial Bearings, Heraldic Devices, and Seals, as Authorized and as Used, of the Counties, Cities, Towns, and Universities of the United Kingdom. Derived from the Official Records}
       \field{year}{1894}
-    \endentry
-    \entry{fretheim2004god}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=63c37add292889873dc17fe17fabbf93}{%
-           family={Fretheim},
-           familyi={F\bibinitperiod},
-           given={Terence\bibnamedelima E},
-           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{fullhash}{63c37add292889873dc17fe17fabbf93}
-      \strng{fullhashraw}{63c37add292889873dc17fe17fabbf93}
-      \strng{bibnamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorbibnamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authornamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorfullhash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorfullhashraw}{63c37add292889873dc17fe17fabbf93}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Word and World}
-      \field{number}{1}
-      \field{title}{God and violence in the Old Testament}
-      \field{volume}{24}
-      \field{year}{2004}
-      \field{pages}{18\bibrangedash 28}
-      \range{pages}{11}
     \endentry
     \entry{theduel}{misc}{}{}
       \name{author}{1}{}{%
@@ -518,34 +419,6 @@
       \field{year}{2015}
       \field{pages}{1657\bibrangedash 1666}
       \range{pages}{10}
-    \endentry
-    \entry{lilly2012war}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfa7a98e3581730c954fe1823382d062}{%
-           family={Lilly},
-           familyi={L\bibinitperiod},
-           given={Ingrid},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{fullhash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{fullhashraw}{bfa7a98e3581730c954fe1823382d062}
-      \strng{bibnamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorbibnamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authornamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorfullhash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorfullhashraw}{bfa7a98e3581730c954fe1823382d062}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Dalam A Faith Not Worth Fighting For: Addressing Commonly Asked Questions about Christian Nonviolence, diedit oleh Tripp York and Justin Bronson Barringer. Eugene, OR: Cascade Books}
-      \field{title}{War and Violence in the Old Testament}
-      \field{year}{2012}
     \endentry
     \entry{ahsoka}{misc}{}{}
       \name{author}{1}{}{%
@@ -1056,45 +929,6 @@
       \field{title}{Pirates of the Caribbean}
       \field{year}{2003 - 2017}
     \endentry
-    \entry{bunn2017archimedes}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
-           family={Bunn},
-           familyi={B\bibinitperiod},
-           given={James\bibnamedelima H},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=476e1d9b0154c164f743a3de71fcc56e}{%
-           family={Bunn},
-           familyi={B\bibinitperiod},
-           given={James\bibnamedelima H},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{fullhash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{fullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{bibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorbibnamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authornamehash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorfullhash}{5d5bb8173c34824ac6c8b06a3569d703}
-      \strng{authorfullhashraw}{5d5bb8173c34824ac6c8b06a3569d703}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Balancing the Common Core Curriculum in Middle School Education: Composing Archimedes' Lever, the Equation, and the Sentence as an Interdisciplinary Unity}
-      \field{title}{Archimedes’ lever}
-      \field{year}{2017}
-      \field{pages}{35\bibrangedash 81}
-      \range{pages}{47}
-    \endentry
     \entry{correa2013history}{thesis}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -1154,34 +988,6 @@
       \field{labeltitlesource}{title}
       \field{title}{How I Met Your Mother}
       \field{year}{2005}
-    \endentry
-    \entry{creach2016violence}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1e3b652a863141f51b0dbf611c7c5ede}{%
-           family={Creach},
-           familyi={C\bibinitperiod},
-           given={Jerome\bibnamedelima FD},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{fullhash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{fullhashraw}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{bibnamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorbibnamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authornamehash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorfullhash}{1e3b652a863141f51b0dbf611c7c5ede}
-      \strng{authorfullhashraw}{1e3b652a863141f51b0dbf611c7c5ede}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Oxford Research Encyclopedia of Religion}
-      \field{title}{Violence in the Old Testament}
-      \field{year}{2016}
     \endentry
     \entry{delaney1990chekhov}{misc}{}{}
       \name{author}{1}{}{%
@@ -1278,38 +1084,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The Book of Public Arms: A Cyclop{æ}dia of the Armorial Bearings, Heraldic Devices, and Seals, as Authorized and as Used, of the Counties, Cities, Towns, and Universities of the United Kingdom. Derived from the Official Records}
       \field{year}{1894}
-    \endentry
-    \entry{fretheim2004god}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=63c37add292889873dc17fe17fabbf93}{%
-           family={Fretheim},
-           familyi={F\bibinitperiod},
-           given={Terence\bibnamedelima E},
-           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{fullhash}{63c37add292889873dc17fe17fabbf93}
-      \strng{fullhashraw}{63c37add292889873dc17fe17fabbf93}
-      \strng{bibnamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorbibnamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authornamehash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorfullhash}{63c37add292889873dc17fe17fabbf93}
-      \strng{authorfullhashraw}{63c37add292889873dc17fe17fabbf93}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Word and World}
-      \field{number}{1}
-      \field{title}{God and violence in the Old Testament}
-      \field{volume}{24}
-      \field{year}{2004}
-      \field{pages}{18\bibrangedash 28}
-      \range{pages}{11}
     \endentry
     \entry{theduel}{misc}{}{}
       \name{author}{1}{}{%
@@ -1458,34 +1232,6 @@
       \field{year}{2015}
       \field{pages}{1657\bibrangedash 1666}
       \range{pages}{10}
-    \endentry
-    \entry{lilly2012war}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfa7a98e3581730c954fe1823382d062}{%
-           family={Lilly},
-           familyi={L\bibinitperiod},
-           given={Ingrid},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{fullhash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{fullhashraw}{bfa7a98e3581730c954fe1823382d062}
-      \strng{bibnamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorbibnamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authornamehash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorfullhash}{bfa7a98e3581730c954fe1823382d062}
-      \strng{authorfullhashraw}{bfa7a98e3581730c954fe1823382d062}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Dalam A Faith Not Worth Fighting For: Addressing Commonly Asked Questions about Christian Nonviolence, diedit oleh Tripp York and Justin Bronson Barringer. Eugene, OR: Cascade Books}
-      \field{title}{War and Violence in the Old Testament}
-      \field{year}{2012}
     \endentry
     \entry{ahsoka}{misc}{}{}
       \name{author}{1}{}{%
